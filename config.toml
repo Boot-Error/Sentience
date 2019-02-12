@@ -2,7 +2,7 @@
 #theme = "hugo-icon"
 baseURL = "https://www.example.com/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Sentience"
 
 # Metadata
 [params]
@@ -17,12 +17,12 @@ title = "My Awesome Title"
 
 # Navigation section
 [params.nav]
-  mission = "Our Mission"
-  services = "Services"
-  team = "The Team"
-  contact = "Get In Touch"
+  mission = "Events"
+  services = "Talks"
+  team = "Team"
+  contact = "Workshops"
   # Include logo instead if HOME:
-  # logo = "path/to/logo"
+  logo = "images/sentience_black.png"
 
 # Mission section
 [params.mission]

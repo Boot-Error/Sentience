@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'icomoon';
+  font-family:Quicksand,sans-serif;
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:Quicksand,sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.8;
@@ -25,6 +25,9 @@ body.fh5co-overflow {
   /*background: red;*/
   margin: 0 !important;
   padding: 0 !important;
+  background-color: #d3c9a0;
+background-image: linear-gradient(180deg, #d3c9a0 0%, #032e27 100%);
+
 }
 svg {
   /*position: fixed;*/
@@ -46,7 +49,7 @@ a:hover, a:focus, a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:Quicksand,sans-serif;
   color: #000;
   margin-bottom: 30px;
 }
@@ -58,7 +61,7 @@ p {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:Quicksand,sans-serif;
   font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -276,12 +279,12 @@ p {
   line-height: 0;
 }
 .fh5co-main-nav .fh5co-menu-1 a {
-  padding: 35px 0;
+  padding: 20px 0;
   margin-right: 30px;
-  color: #ccc;
+  color: rgba(0,0,0,0.4);
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 400;
   display: -moz-inline-stack;
   display: inline-block;
@@ -306,7 +309,7 @@ p {
   text-align: center;
   width: 19.33%;
   font-size: 40px;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family:Quicksand,sans-serif;
   font-weight: 700;
   font-style: italic;
 }
@@ -671,7 +674,7 @@ p {
   top: .15em;
   font-size: 23px;
   color: #57D131;
-  font-family: 'icomoon';
+  font-family:Quicksand,sans-serif;
   speak: none;
   font-style: normal;
   font-weight: normal;
