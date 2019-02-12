@@ -299,7 +299,7 @@
 		clickMenu();
 		navigationSection();
 		goToTop();
-
+		setupTimer();
 	});
 
 
