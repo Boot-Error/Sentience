@@ -6,15 +6,23 @@
 	<a href="#" data-nav-section="home">{{ with .Site.Params.nav }}{{ if isset . "logo" }}<img src={{ .logo | absURL }} height="30" alt="">{{ end }}{{ if (not (isset . "logo")) }}Home{{ end }}{{ end }}</a>
 
 	{{ if .Site.Params.mission.enable }}
-	<a href="#" data-nav-section="mission">{{ with .Site.Params.nav.mission }}{{ . | markdownify }}{{ end }}</a>
+	<a href="#" data-nav-section="about">{{ with .Site.Params.nav.about }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
 
 	{{ if .Site.Params.services.enable }}
-	<a href="#" data-nav-section="services">{{ with .Site.Params.nav.services }}{{ . | markdownify }}{{ end }}</a>
+	<a href="#" data-nav-section="events">{{ with .Site.Params.nav.events }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
-
+	{{ if .Site.Params.team.enable }}
+	<a href="#" data-nav-section="talks">{{ with .Site.Params.nav.talks }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
+	{{ if .Site.Params.team.enable }}
+	<a href="#" data-nav-section="workshops">{{ with .Site.Params.nav.workshops }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
 	{{ if .Site.Params.team.enable }}
 	<a href="#" data-nav-section="team">{{ with .Site.Params.nav.team }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
+	{{ if .Site.Params.team.enable }}
+	<a href="#" data-nav-section="sponsors">{{ with .Site.Params.nav.sponsors }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
 
 	{{ if .Site.Params.contact.enable }}
