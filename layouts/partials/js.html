@@ -16,3 +16,20 @@
 <script src="js/magnific-popup-options.js"></script>
 <!-- Main JS -->
 <script src="js/main.js"></script>
+<!-- <script src="http://code.jquery.com/jquery-latest.min.js"></script> -->
+<script src="js/jquery.drawsvg.js"></script>
+<script type="text/javascript">
+var count = 0,
+    $svg = $('svg').drawsvg({
+      callback: function() {
+        $('#log').html('<p>Animation complete! <strong>' + (count++) + '</strong></p>');
+        animate();
+      }
+    });
+
+function animate() {
+  $svg.drawsvg('animate');  
+}
+
+animate();
+</script>
