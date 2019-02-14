@@ -1,13 +1,13 @@
 # Main config file for icon theme.
 #theme = "hugo-icon"
-baseURL = "https://www.example.com/"
-languageCode = "en-AU"
+baseURL = "https://sentiencenitd.in/"
+languageCode = "en-US"
 title = "Sentience"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "Sentience NIT Dekhi"
+  description = "Annual Techno Cultural Fest of National Institute of Technology, Delhi"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -23,6 +23,7 @@ title = "Sentience"
   team = "Team"
   workshops = "Workshops"
   sponsors = "Sponsors"
+  contact = "Contact"
   # Include logo instead if HOME:
   logo = "images/sentience_black.png"
 
@@ -84,7 +85,7 @@ title = "Sentience"
 
 # Work section
 [params.work]
-  enable = true
+  enable = false
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
@@ -128,7 +129,7 @@ title = "Sentience"
 
 # Team section
 [params.team]
-  enable = true
+  enable = false
   title = "Meet The Team"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
@@ -181,18 +182,30 @@ title = "Sentience"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-  name_placeholder = "Your name"
-  email_placeholder = "Your email"
-  email_disclaimer = "We'll never share your email with anyone else."
-  message_placeholder = "Please enter a message."
-  button_text = "Submit"
+  message = "For sponsorship and event details, contact"
+
+  [[params.contact.item]]
+  	name = "Ojasvi"
+	phno = "+91 99684 30077"
+
+  [[params.contact.item]]
+  	name = "Ayush Pranav"
+	phno = "+91 123456789"
+
+  [[params.contact.item]]
+  	name = "Prathu"
+	phno = "+91 82218 07715"
+  # name_placeholder = "Your name"
+  # email_placeholder = "Your email"
+  # email_disclaimer = "We'll never share your email with anyone else."
+  # message_placeholder = "Please enter a message."
+  # button_text = "Submit"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  note = "<p><small>&copy; 2019 Sentience NIT Delhi. All Rights Reserved.</small></p>"
   github = "#"
   twitter = "#"
   facebook = "#"
