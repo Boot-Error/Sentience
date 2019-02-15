@@ -12,18 +12,18 @@
 	{{ if .Site.Params.services.enable }}
 	<a href="#" data-nav-section="events">{{ with .Site.Params.nav.events }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
-	{{ if .Site.Params.team.enable }}
-	<a href="#" data-nav-section="talks">{{ with .Site.Params.nav.talks }}{{ . | markdownify }}{{ end }}</a>
-	{{ end }}
-	{{ if .Site.Params.team.enable }}
-	<a href="#" data-nav-section="workshops">{{ with .Site.Params.nav.workshops }}{{ . | markdownify }}{{ end }}</a>
-	{{ end }}
-	{{ if .Site.Params.team.enable }}
-	<a href="#" data-nav-section="team">{{ with .Site.Params.nav.team }}{{ . | markdownify }}{{ end }}</a>
-	{{ end }}
-	{{ if .Site.Params.team.enable }}
-	<a href="#" data-nav-section="sponsors">{{ with .Site.Params.nav.sponsors }}{{ . | markdownify }}{{ end }}</a>
-	{{ end }}
+	<!-- {{ if .Site.Params.team.enable }} -->
+	<!-- <a href="#" data&#45;nav&#45;section="talks">{{ with .Site.Params.nav.talks }}{{ . | markdownify }}{{ end }}</a> -->
+	<!-- {{ end }} -->
+	<!-- {{ if .Site.Params.team.enable }} -->
+	<!-- <a href="#" data&#45;nav&#45;section="workshops">{{ with .Site.Params.nav.workshops }}{{ . | markdownify }}{{ end }}</a> -->
+	<!-- {{ end }} -->
+	<!-- {{ if .Site.Params.team.enable }} -->
+	<!-- <a href="#" data&#45;nav&#45;section="team">{{ with .Site.Params.nav.team }}{{ . | markdownify }}{{ end }}</a> -->
+	<!-- {{ end }} -->
+	<!-- {{ if .Site.Params.team.enable }} -->
+	<!-- <a href="#" data&#45;nav&#45;section="sponsors">{{ with .Site.Params.nav.sponsors }}{{ . | markdownify }}{{ end }}</a> -->
+	<!-- {{ end }} -->
 
 	{{ if .Site.Params.contact.enable }}
 	<a href="#" data-nav-section="contact">{{ with .Site.Params.nav.contact }}{{ . | markdownify }}{{ end }}</a>
