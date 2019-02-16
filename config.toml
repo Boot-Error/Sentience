@@ -185,16 +185,20 @@ title = "Sentience"
   message = "For sponsorship and event details, contact"
 
   [[params.contact.item]]
-  	name = "Ojasvi"
-	phno = "+91 99684 30077"
-
-  [[params.contact.item]]
   	name = "Ayush Pranav"
 	phno = "+91 72890 17595"
 
   [[params.contact.item]]
-  	name = "Prathu"
-	phno = "+91 82218 07715"
+  	name = "Ojasvi"
+	phno = "+91 99684 30077"
+
+  [[params.contact.item]]
+  	name = "Arpan"
+	phno = "+91 90581 05581"
+
+  [[params.contact.item]]
+  	name = "Amarjot"
+	phno = "+91 98786 07155"
   # name_placeholder = "Your name"
   # email_placeholder = "Your email"
   # email_disclaimer = "We'll never share your email with anyone else."
