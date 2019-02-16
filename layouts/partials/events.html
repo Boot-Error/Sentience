@@ -3,20 +3,21 @@
   {{ if .video }}
   <div class="fh5co-video"><a href="{{ with .vidlink }}{{ . }}{{ end }}" class="popup-vimeo"><i class="icon-play2"></i></a> <span>Watch trailer</span></div>
   {{ end }}
-  <div class="container" >
+  <div class="container events-cont" >
     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
       <h2>{{ .title | markdownify }}</h2>
       <p>{{ .description | markdownify }}</p>
     </div>
-    <div style="display: flex;justify-content: center;flex-wrap: wrap;width:100%;">
+    <div class="events-card">
 	    {{ range .item }}
-	    <div class="col-md-4">
-	      <div class="service">
-		<div class="icon"><i class={{ .icon }}></i></div>
-		<h3>{{ .title  | markdownify }}</h3>
-		<p>{{ .description | markdownify }}</p>
+	      <div class="events-real-cont cmn" style="background-image: url('{{.img | absURL}}');"
+        >
+          <div class ="service events-real-cont-back"> 
+  		      <div class="icon"><i class={{ .icon }}></i></div>
+  		      <h3>{{ .title  | markdownify }}</h3>
+  		      <p>{{ .description | markdownify }}</p>
+          </div>
 	      </div>
-	    </div>
 	    {{ end }}
     </div>
     <div class="col-md-12 text-center">

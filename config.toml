@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 #theme = "hugo-icon"
-baseURL = "https://sentiencenitd.in/"
+baseURL = "https://sentience19.firebaseapp.com/"
 languageCode = "en-US"
 title = "Sentience"
 
@@ -11,7 +11,7 @@ title = "Sentience"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/outline_tit1.png"
   title = "Create awesome things for better web"
   description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
@@ -26,6 +26,16 @@ title = "Sentience"
   contact = "Contact"
   # Include logo instead if HOME:
   logo = "images/sentience_black.png"
+#About section
+[params.about]
+  enable = true
+
+
+  [params.about.image1]
+      img = "images/tt1.jpg"
+  [params.about.image2]
+      img = "images/home-min.jpg"
+
 
 # Mission section
 [params.mission]
@@ -72,14 +82,17 @@ title = "Sentience"
   title = "Events"
   description = "Gateway to Freeway. Discover yourself. "
 
+
   [[params.services.item]]
     icon = "icon-present"
     title = "Technical Events"
+    img = "images/eve1.png"
     description = "Details to be disclosed soon."
 
   [[params.services.item]]
     icon = "icon-eye"
     title = "Cultural Events"
+    img = "images/eve2.jpg"
     description = "Details to be disclosed soon."
 
 
