@@ -21,12 +21,42 @@
 <!-- <script src="http://code.jquery.com/jquery-latest.min.js"></script> -->
 <script src="js/jquery.drawsvg.js"></script>
 <script type="text/javascript">
-var count = 0,
+	var count = 0
+	var colors = ['pink','sky','blue','green','red']
+	var colors2 = ['red','pink','sky','blue','green']
+
+	// console.log($('svg'))
     $svg = $('svg').drawsvg({
       callback: function() {
-        $('#log').html('<p>Animation complete! <strong>' + (count++) + '</strong></p>');
+      	// console.log(Object.keys($('path')))
+
+      	Object.keys($('path')).forEach(function(e){
+      		// console.log(e)
+      		if($('path')[e].style!=undefined){
+	      		// console.log($('path')[e].style.stroke)
+      			$('path')[e].style.stroke = colors[count]
+      		}
+
+      	})
+      	Object.keys($('polygon')).forEach(function(e){
+      		if($('polygon')[e].style!=undefined){
+	      		// console.log($('path')[e].style.stroke)
+      			$('polygon')[e].style.stroke = colors2[count]
+      		}
+      	})
+      	// $('path').style.stroke=colors[count]
+        // $('#log').html('<p>Animation complete! <strong>' + (count++) + '</strong></p>');
+        if(count==colors.length-1){
+        		count=0
+        }
+        else{
+	        count++
+        }
         animate();
-      }
+
+      },
+      reverse:true,
+      stagger:300
     });
 
 function animate() {
