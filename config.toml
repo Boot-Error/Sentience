@@ -200,10 +200,17 @@ title = "Sentience"
   [[params.contact.item]]
   	name = "Ayush Pranav"
 	phno = "+91 72890 17595"
+	position = "Core Committe"
 
   [[params.contact.item]]
   	name = "Ojasvi"
 	phno = "+91 99684 30077"
+	position = "Sponsorship Head"
+
+  [[params.contact.item]]
+  	name = "Prathu"
+	phno = "+91 98786 07155"
+	position = "Event Management Head"
 
   [[params.contact.item]]
   	name = "Arpan"
@@ -212,6 +219,7 @@ title = "Sentience"
   [[params.contact.item]]
   	name = "Amarjot"
 	phno = "+91 98786 07155"
+
   # name_placeholder = "Your name"
   # email_placeholder = "Your email"
   # email_disclaimer = "We'll never share your email with anyone else."
@@ -223,10 +231,6 @@ title = "Sentience"
 [params.footer]
   enable = true
   note = "<p><small>&copy; 2019 Sentience NIT Delhi. All Rights Reserved.</small></p>"
-  github = "#"
-  twitter = "#"
   facebook = "#"
-  vine = "#"
-  linkedin = "#"
   instagram = "#"
   
