@@ -78,7 +78,7 @@ title = "Sentience"
 [params.services]
   enable = true
   video = true
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  vidlink = ""
   title = "Events"
   description = "Gateway to Freeway. Discover yourself. "
 
@@ -215,10 +215,12 @@ title = "Sentience"
   [[params.contact.item]]
   	name = "Arpan"
 	phno = "+91 90581 05581"
+	position = "Core Committe"
 
   [[params.contact.item]]
   	name = "Amarjot"
 	phno = "+91 98786 07155"
+	position = "Core Committe"
 
   # name_placeholder = "Your name"
   # email_placeholder = "Your email"
