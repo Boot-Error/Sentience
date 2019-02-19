@@ -17,7 +17,6 @@ title = "Sentience"
 
 # Navigation section
 [params.nav]
-  about = "About"
   events = "Events"
   talks = "Talks"
   team = "Team"
@@ -203,16 +202,6 @@ title = "Sentience"
 	position = "Core Committe"
 
   [[params.contact.item]]
-  	name = "Ojasvi"
-	phno = "+91 99684 30077"
-	position = "Sponsorship Head"
-
-  [[params.contact.item]]
-  	name = "Prathu"
-	phno = "+91 98786 07155"
-	position = "Event Management Head"
-
-  [[params.contact.item]]
   	name = "Arpan"
 	phno = "+91 90581 05581"
 	position = "Core Committe"
@@ -222,7 +211,23 @@ title = "Sentience"
 	phno = "+91 98786 07155"
 	position = "Core Committe"
 
-  # name_placeholder = "Your name"
+  [[params.contact.item]]
+  	name = "Nita"
+	phno = "+91 99996 25845"
+	position = "Event Management"
+
+  [[params.contact.item]]
+  	name = "Prathu"
+	phno = "+91 98786 07155"
+	position = "Event Management"
+
+  [[params.contact.item]]
+  	name = "Ojasvi"
+	phno = "+91 99684 30077"
+	position = "Sponsorship"
+
+
+   # name_placeholder = "Your name"
   # email_placeholder = "Your email"
   # email_disclaimer = "We'll never share your email with anyone else."
   # message_placeholder = "Please enter a message."

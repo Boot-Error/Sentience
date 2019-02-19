@@ -1,5 +1,6 @@
 {
   "projects": {
-    "sentience19": "sentience19"
+    "sentience19": "sentience19",
+    "staging": "sentience19"
   }
 }
