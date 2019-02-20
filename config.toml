@@ -77,22 +77,65 @@ title = "Sentience"
 [params.services]
   enable = true
   video = true
-  vidlink = ""
+  vidlink = "https://www.youtube.com/watch?v=J3FFScpoeDs"
   title = "Events"
   description = "Gateway to Freeway. Discover yourself. "
 
 
   [[params.services.item]]
+
     icon = "icon-present"
     title = "Technical Events"
     img = "images/eve1.png"
     description = "Details to be disclosed soon."
 
+		[[params.services.item.subcategory]]
+			title = "Robotics"
+			description = ""
+			coverImage = "images/Robotics.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Coding"
+			description = ""
+			coverImage = "images/Coding.jpg"
+
   [[params.services.item]]
+
     icon = "icon-eye"
     title = "Cultural Events"
     img = "images/eve2.jpg"
     description = "Details to be disclosed soon."
+
+		[[params.services.item.subcategory]]
+			title = "Music"
+			description = ""
+			coverImage = "images/Music.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Art"
+			description = ""
+			coverImage = "images/Art.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Dance"
+			description = ""
+			coverImage = "images/Dance.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Dramatics"
+			description = ""
+			coverImage = "images/Dramatics.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Literature"
+			description = ""
+			coverImage = "images/Literature.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Fashion"
+			description = ""
+			coverImage = "images/Fashion.jpg"
+
 
 
 # Work section
