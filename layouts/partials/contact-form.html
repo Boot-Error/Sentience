@@ -1,28 +1,32 @@
 <div id="fh5co-team" data-section="contact">
   <div class="container">
-	{{ with .Site.Params.contact }}
-	<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-	  <h2>{{ .title }}</h2>
-	  <p>{{ .message | markdownify }}</p>
-	</div>
-		{{ range .item }}
-		<div class="col-md-6">
-		  <div class="person">
-			<img src="{{ .img | absURL }}" alt="" class="img-responsive">
-			<h3>{{ .name }}</h3>
-			<h4>{{ .position }}</h4>
-			<p>{{ .description | markdownify }}</p>
-			<ul class="social">
-			  {{ if isset . "phno" }}
-			  <li><i class="icon-phone"></i>  <span>{{ .phno }}</span></li>
-			  {{ end }}
-			  {{ if isset . "email" }}
-			  <li><a href="{{ .email }}"><i class="icon-email"></i></a></li>
-			  {{ end }}
-			</ul>
-		  </div>
+		{{ with .Site.Params.contact }}
+		<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+			<h2>{{ .title }}</h2>
+			<p>{{ .message | markdownify }}</p>
 		</div>
+		{{ range .section }}
+			<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+				<h2>{{ .section }}</h2>
+			</div>
+			{{ range .item }}
+				<div class="col-md-4 mx-auto">
+					<div class="person">
+						<h3>{{ .name }}</h3>
+						<h4>{{ .position }}</h4>
+						<p>{{ .description | markdownify }}</p>
+						<ul class="social">
+							{{ if isset . "phno" }}
+							<li><i class="icon-phone"></i>  <span>{{ .phno }}</span></li>
+							{{ end }}
+							{{ if isset . "email" }}
+							<li><a href="{{ .email }}"><i class="icon-email"></i></a></li>
+							{{ end }}
+						</ul>
+					</div>
+				</div>
+			{{ end }}
 		{{ end }}
-    {{ end }}
-  </div>
+	</div>
+	{{ end }}
 </div>

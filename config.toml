@@ -239,35 +239,44 @@ title = "Sentience"
   title = "Get In Touch"
   message = "For sponsorship and event details, contact"
 
-  [[params.contact.item]]
-  	name = "Ayush Pranav"
-	phno = "+91 72890 17595"
-	position = "Core Committe"
+	[[params.contact.section]]
+		section = "Core Committe"
 
-  [[params.contact.item]]
-  	name = "Arpan"
-	phno = "+91 90581 05581"
-	position = "Core Committe"
+		[[params.contact.section.item]]
+			name = "Ayush Pranav"
+			phno = "+91 72890 17595"
+			position = "Core Committe"
 
-  [[params.contact.item]]
-  	name = "Amarjot"
-	phno = "+91 98786 07155"
-	position = "Core Committe"
+		[[params.contact.section.item]]
+			name = "Arpan"
+			phno = "+91 90581 05581"
+			position = "Core Committe"
 
-  [[params.contact.item]]
-  	name = "Nita"
-	phno = "+91 99996 25845"
-	position = "Event Management"
+		[[params.contact.section.item]]
+			name = "Amarjot"
+			phno = "+91 98786 07155"
+			position = "Core Committe"
 
-  [[params.contact.item]]
-  	name = "Prathu"
-	phno = "+91 98786 07155"
-	position = "Event Management"
+	[[params.contact.section]]
+		section = "Event Managment"
 
-  [[params.contact.item]]
-  	name = "Ojasvi"
-	phno = "+91 99684 30077"
-	position = "Sponsorship"
+		[[params.contact.section.item]]
+			name = "Nita"
+			phno = "+91 99996 25845"
+			position = "Event Management"
+
+		[[params.contact.section.item]]
+			name = "Prathu"
+			phno = "+91 98786 07155"
+			position = "Event Management"
+
+	[[params.contact.section]]
+		section = "Sponsorship"
+
+		[[params.contact.section.item]]
+			name = "Ojasvi"
+			phno = "+91 99684 30077"
+			position = "Sponsorship"
 
 
    # name_placeholder = "Your name"
