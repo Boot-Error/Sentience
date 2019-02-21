@@ -240,38 +240,38 @@ title = "Sentience"
   message = "For sponsorship and event details, contact"
 
 	[[params.contact.section]]
-		section = "Core Committe"
+		section = "Core Committee"
+
+		[[params.contact.section.item]]
+			name = "Amarjot Kaur"
+			phno = "+91 98786 07155"
+			position = "Core Head"
+
+		[[params.contact.section.item]]
+			name = "Arpan Singh"
+			phno = "+91 90581 05581"
+			position = "Core Head"
 
 		[[params.contact.section.item]]
 			name = "Ayush Pranav"
 			phno = "+91 72890 17595"
 			position = "Core Head"
 
-		[[params.contact.section.item]]
-			name = "Arpan"
-			phno = "+91 90581 05581"
-			position = "Core Head"
-
-		[[params.contact.section.item]]
-			name = "Amarjot"
-			phno = "+91 98786 07155"
-			position = "Core Head"
-
 	[[params.contact.section]]
 		section = "Event Managment"
 
 		[[params.contact.section.item]]
-			name = "Nita"
+			name = "Nita Mathew" 
 			phno = "+91 99996 25845"
 			position = "Event Management"
 
 		[[params.contact.section.item]]
-			name = "Prathu"
+			name = "Prathu Singh"
 			phno = "+91 98786 07155"
 			position = "Event Management"
 
 		[[params.contact.section.item]]
-			name = "Tanuj"
+			name = "Tanuj Yadav"
 			phno = "+91 97167 55258"
 			position = "Event Management"
 
