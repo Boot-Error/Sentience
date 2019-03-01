@@ -1,28 +1,40 @@
 # Main config file for icon theme.
 #theme = "hugo-icon"
-baseURL = "https://www.example.com/"
-languageCode = "en-AU"
+baseURL = "https://sentience19.firebaseapp.com/"
+languageCode = "en-US"
 title = "Sentience"
 
 # Metadata
 [params]
-  author = "Your name"
-  description = "Cool description"
+  author = "Sentience NIT Dekhi"
+  description = "Annual Techno Cultural Fest of National Institute of Technology, Delhi"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/outline_tit1.png"
   title = "Create awesome things for better web"
   description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
 # Navigation section
 [params.nav]
-  mission = "Events"
-  services = "Talks"
+  events = "Events"
+  talks = "Talks"
   team = "Team"
-  contact = "Workshops"
+  workshops = "Workshops"
+  sponsors = "Sponsors"
+  contact = "Contact"
   # Include logo instead if HOME:
   logo = "images/sentience_black.png"
+#About section
+[params.about]
+  enable = true
+
+
+  [params.about.image1]
+      img = "images/tt1.jpg"
+  [params.about.image2]
+      img = "images/home-min.jpg"
+
 
 # Mission section
 [params.mission]
@@ -65,43 +77,70 @@ title = "Sentience"
 [params.services]
   enable = true
   video = true
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Our Services"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  vidlink = "https://www.youtube.com/watch?v=J3FFScpoeDs"
+  title = "Events"
+  description = "Gateway to Freeway. Discover yourself. "
+
 
   [[params.services.item]]
+
     icon = "icon-present"
-    title = "Web Development"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Technical Events"
+    img = "images/eve1.png"
+    description = "Details to be disclosed soon."
+
+		[[params.services.item.subcategory]]
+			title = "Robotics"
+			description = ""
+			coverImage = "images/Robotics.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Coding"
+			description = ""
+			coverImage = "images/Coding.jpg"
 
   [[params.services.item]]
+
     icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Cultural Events"
+    img = "images/eve2.jpg"
+    description = "Details to be disclosed soon."
 
-  [[params.services.item]]
-    icon = "icon-paper-plane"
-    title = "Light Speed"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+		[[params.services.item.subcategory]]
+			title = "Music"
+			description = ""
+			coverImage = "images/Music.jpg"
 
-  [[params.services.item]]
-    icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+		[[params.services.item.subcategory]]
+			title = "Art"
+			description = ""
+			coverImage = "images/Art.jpg"
 
-  [[params.services.item]]
-    icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+		[[params.services.item.subcategory]]
+			title = "Dance"
+			description = ""
+			coverImage = "images/Dance.jpg"
 
-  [[params.services.item]]
-    icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+		[[params.services.item.subcategory]]
+			title = "Dramatics"
+			description = ""
+			coverImage = "images/Dramatics.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Literature"
+			description = ""
+			coverImage = "images/Literature.jpg"
+
+		[[params.services.item.subcategory]]
+			title = "Fashion"
+			description = ""
+			coverImage = "images/Fashion.jpg"
+
+
 
 # Work section
 [params.work]
-  enable = true
+  enable = false
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
@@ -145,7 +184,7 @@ title = "Sentience"
 
 # Team section
 [params.team]
-  enable = true
+  enable = false
   title = "Meet The Team"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
@@ -198,22 +237,64 @@ title = "Sentience"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-  name_placeholder = "Your name"
-  email_placeholder = "Your email"
-  email_disclaimer = "We'll never share your email with anyone else."
-  message_placeholder = "Please enter a message."
-  button_text = "Submit"
+  message = "For sponsorship and event details, contact"
+
+	[[params.contact.section]]
+		section = "Core Committee"
+
+		[[params.contact.section.item]]
+			name = "Amarjot Kaur"
+			phno = "+91 98786 07155"
+			position = "Core Head"
+
+		[[params.contact.section.item]]
+			name = "Arpan Singh"
+			phno = "+91 90581 05581"
+			position = "Core Head"
+
+		[[params.contact.section.item]]
+			name = "Ayush Pranav"
+			phno = "+91 72890 17595"
+			position = "Core Head"
+
+	[[params.contact.section]]
+		section = "Event Managment"
+
+		[[params.contact.section.item]]
+			name = "Nita Mathew" 
+			phno = "+91 99996 25845"
+			position = "Event Management"
+
+		[[params.contact.section.item]]
+			name = "Prathu Singh"
+			phno = "+91 98786 07155"
+			position = "Event Management"
+
+		[[params.contact.section.item]]
+			name = "Tanuj Yadav"
+			phno = "+91 97167 55258"
+			position = "Event Management"
+
+	[[params.contact.section]]
+		section = "Sponsorship"
+
+		[[params.contact.section.item]]
+			name = "Ojasvi"
+			phno = "+91 99684 30077"
+			position = "Sponsorship"
+
+
+   # name_placeholder = "Your name"
+  # email_placeholder = "Your email"
+  # email_disclaimer = "We'll never share your email with anyone else."
+  # message_placeholder = "Please enter a message."
+  # button_text = "Submit"
 
 # Footer section
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
-  twitter = "#"
+  note = "<p><small>&copy; 2019 Sentience NIT Delhi. All Rights Reserved.</small></p>"
   facebook = "#"
-  vine = "#"
-  linkedin = "#"
   instagram = "#"
   

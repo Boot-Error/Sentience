@@ -24,22 +24,40 @@ body.fh5co-overflow {
   align-items: flex-start;
   /*flex-direction: column;*/
   /*background: red;*/
+    background-size: cover;
+  background-position: cover !important;
   margin: 0 !important;
   padding: 0 !important;
-  background-color: #d3c9a0;
-  position: relative;
-  background-image: linear-gradient(180deg, #d3c9a0 0%, #032e27 100%);
+  /*background-color: #08AEEA;*/
+/*background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);*/
+  /*background-color: #d3c9a0;*/
+  /*background-image: linear-gradient(180deg, #d3c9a0 0%, #032e27 100%);*/
 }
 .home-main-title{
   font-size: 55px;
   color: lightgrey;
   letter-spacing:3px;
   font-family: 'Quicksand',sans-serif;
-  position: absolute;
-  bottom: 16vh;
+  /*position: absolute;*/
+  /*bottom: 16vh;*/
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   width:100vw;
   text-align: center;
   font-weight: bold;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+}
+#Layer_1{
+  padding: 0 !important;
+  /*background: green;*/
+  margin:0 !important;
+}
+.home-main-title img{
+  height:150px;
+  /*background: red;*/
 }
 .home-main-title div{
    font-size: 25px;
@@ -665,18 +683,20 @@ p {
 }
 #fh5co-services .service h3 {
   text-align: center;
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 500;
   text-transform: uppercase;
-  color: #368f95;
+  color: white;
+  font-weight: bold;
+  z-index: 10 !important;
 }
-#fh5co-services .service:hover, #fh5co-services .service:focus {
+/*#fh5co-services .service:hover, #fh5co-services .service:focus {
   border: 1px solid #e6e6e6;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
   -moz-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
   -ms-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
   box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.09);
-}
+}*/
 
 .checked {
   padding: 0;
@@ -1224,6 +1244,39 @@ p {
 	display: flex;
 	flex-wrap: wrap;
     }
+}
+
+div#countdown-timer {
+	/* background-color: #FBDA61; */
+	/* background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%); */
+	/* padding: 10px 15px; */
+	/* border: 3px solid black; */
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 0 auto;
+	/* margin-bottom: 15%; */
+	/*border-radius:5px;*/
+}
+
+div#countdown-timer-block {
+	
+	margin: 0;
+	padding: 0;
+}
+
+p#countdown-timer-val{
+
+	line-height: 100%;
+	margin: 0 !important;
+	margin-bottom: 10px !important;
+	width:80px;
+	text-align: center;
+}
+
+p#countdown-timer-unit{
+
+	font-size: small;
 }
 
 /* .equal { */

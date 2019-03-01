@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220.6 181.6" height="181.6" width="220.6">
+	<polygon 
+		points="116.97 101.86 142.2 87.31 142.2 57.75 205.72 21.12 116.97 174.8 116.97 101.86" 
+		style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"/>
+	<path 
+		d="M344,168.55,256.51,320V248.56l24.89-14.35.33-.2V204.45L344,168.55m1.8-1.87-64.73,37.37v29.56l-25.22,14.55V322.5l90-155.82Z" 
+		transform="translate(-139.2 -146.5)" 
+		style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"
+		/>
+	<polygon 
+		points="16.08 21.79 78.4 57.75 78.4 87.31 104.3 102.26 104.3 174.53 16.08 21.79" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"
+		/>
+	<path 
+		d="M156.21,169.22l61.06,35.23V234l.33.2L243.16,249v70.87L156.21,169.22m-1.8-1.8L243.83,322.3V248.56l-25.89-14.95V204.05l-63.53-36.63Z" 
+		transform="translate(-139.2 -146.5)" 
+		style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"
+		/>
+	<polygon 
+		points="110.3 32.06 84.81 46.81 6.87 1.83 213.73 1.83 135.86 46.81 110.3 32.06" 
+		style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"
+		/>
+	<path 
+		d="M351.66,148.67,275,192.91l-25.16-14.55-.33-.2-.33.2L224,192.91l-76.67-44.24H351.66m2.54-.67H144.8L224,193.71,249.5,179,275,193.71,354.2,148Z" transform="translate(-139.2 -146.5)" 
+		style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px"
+		/>
+</svg>
