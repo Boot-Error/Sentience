@@ -230,15 +230,7 @@ message, screenplay, overall impact
 
 *\[stand-up comedy competition\]*
 
-"life doesn\'t make any sense, and we all pretend it does. comedy\'s job
-is to point out that it doesn\'t make sense, and that it doesn\'t make
-much difference anyway." stand-up comedy, whether prepared or
-improvised, is a difficult yet rewarding art form. all ya gotta do is
-make people laugh! easier said than done. if you have what it takes to
-make people laugh in the blink of an eye, then that's what we are
-waiting for. stand up, make people laugh and be the celebrity. if you
-think you can you have delightful tongue-in-cheek humour, then this here
-is your opportunity to showcase your hilarious talent!
+"life doesn\'t make any sense, and we all pretend it does. comedy\'s job is to point out that it doesn\'t make sense, and that it doesn\'t make much difference anyway." stand-up comedy, whether prepared or improvised, is a difficult yet rewarding art form. all ya gotta do is make people laugh! easier said than done. if you have what it takes to make people laugh in the blink of an eye, then that's what we are waiting for. stand up, make people laugh and be the celebrity. if you think you can you have delightful tongue-in-cheek humour, then this here is your opportunity to showcase your hilarious talent!
 
 **time limit:** 5-10 min
 
@@ -283,16 +275,11 @@ quality of humour, overall performance
 
 [music events]{.underline}
 
-**battle of bands**
+## Battle of bands
 
 *\[rock band competition\]*
 
-you think you have what it takes to rock? to electrify the crowd with
-your music? battle of bands, as the name suggests, is a battle of music
-between bands. This event focuses on a band's understanding of music and
-the ability to connect with their audience. So, come on already; just
-pack your guitar and get ready to get on the stairway for some good old
-rock 'n roll!
+you think you have what it takes to rock? to electrify the crowd with your music? battle of bands, as the name suggests, is a battle of music between bands. This event focuses on a band's understanding of music and the ability to connect with their audience. So, come on already; just pack your guitar and get ready to get on the stairway for some good old rock 'n roll!
 
 **Team Size:** 3-8
 
@@ -348,14 +335,7 @@ Synchronization, Overall impact
 
 *\[Solo + Duet Singing Competition\]*
 
-Singers are not people who sing, rather, they are entrepreneurs of their
-own style, variation, and genre. Music creates its own ambience and
-singers augment soul, drama, emotion, mystery and fantasy. Do you have
-the knack to improvise the songs you have listened to a zillionth time
-and the skill to kill it with music? So, the timer is set, listen to
-your calling, this Sentience'19 welcomes aspiring music supernovae to
-sing their hearts out, in its very own Aaroh; the solo/duet singing
-competition.
+Singers are not people who sing, rather, they are entrepreneurs of their own style, variation, and genre. Music creates its own ambience and singers augment soul, drama, emotion, mystery and fantasy. Do you have the knack to improvise the songs you have listened to a zillionth time and the skill to kill it with music? So, the timer is set, listen to your calling, this Sentience'19 welcomes aspiring music supernovae to sing their hearts out, in its very own Aaroh; the solo/duet singing competition.
 
 **Team size:** 1-2
 
@@ -403,12 +383,7 @@ beat, Overall impact
 
 *\[Acapella competition\]*
 
-"I regard myself as a beautiful musical instrument, and my role is to
-contribute that instrument to scripts worthy of it." The human voice is
-the first and most natural musical instrument, also the most emotional.
-May it be the keyboard or the guitar, beat boxing or Konnakol, violin or
-harmonium, this event lets you be the singer and the instrument. Get
-your team ready and impress us with your stellar vocal percussion.
+"I regard myself as a beautiful musical instrument, and my role is to contribute that instrument to scripts worthy of it." The human voice is the first and most natural musical instrument, also the most emotional. May it be the keyboard or the guitar, beat boxing or Konnakol, violin or harmonium, this event lets you be the singer and the instrument. Get your team ready and impress us with your stellar vocal percussion.
 
 **Team Size:** 5-15
 
@@ -454,13 +429,7 @@ Synchronization, Overall presence
 
 *\[Theme walk Competition\]*
 
-"Fashion is art and you, the canvas." From hair to makeup to dressing to
-confidence; everything matters once you're up on that stage. This event
-is for all the lovely ladies and gentlemen who know how to step up their
-looks and style! Participants will be given a theme and they will have
-to dress up according to it. So, are you up for the challenge? This
-individual event is for all fashion lovers; come on up and show us your
-Jalwa!
+"Fashion is art and you, the canvas." From hair to makeup to dressing to confidence; everything matters once you're up on that stage. This event is for all the lovely ladies and gentlemen who know how to step up their looks and style! Participants will be given a theme and they will have to dress up according to it. So, are you up for the challenge? This individual event is for all fashion lovers; come on up and show us your Jalwa!
 
 **Team Size:** up to 20 (including backstage crew and sound attendant)
 
@@ -516,16 +485,7 @@ Coordination, Relevance to theme, Overall appearance
 
 *\[Spray painting\]*
 
-"For me, graffiti means making marks on surfaces using just about
-anything, be it markers, spray, paint, chalk, lipstick, varnish, ink. Or
-it can be the result of scratches and incisions. The aim is to maintain
-the energy created by disturbance or excitement in the street." Spray
-Painting is a magical artwork by your beautiful hands. But would the
-same magical aura be created if a right-handed person is asked to paint
-with their left hand and vice versa? Will your less dominating hand be
-able to make you dominate the entire event and let you win? Participants
-will be provided all the items required for the event. Come in and set a
-new bench mark in the art of a spray painting.
+"For me, graffiti means making marks on surfaces using just about anything, be it markers, spray, paint, chalk, lipstick, varnish, ink. Or it can be the result of scratches and incisions. The aim is to maintain the energy created by disturbance or excitement in the street." Spray Painting is a magical artwork by your beautiful hands. But would the same magical aura be created if a right-handed person is asked to paint with their left hand and vice versa? Will your less dominating hand be able to make you dominate the entire event and let you win? Participants will be provided all the items required for the event. Come in and set a new bench mark in the art of a spray painting.
 
 **Team Size:** solo event
 
@@ -540,12 +500,7 @@ new bench mark in the art of a spray painting.
 
 *\[Tattoo vs Mehndi competition\] *
 
-Mehndi is a form of body art since the ancient times in India. While on
-the other hand, tattoos are also a form of body art which was initially
-popular in the west. The face-off between the two would definitely be a
-visual treat to your eyes. This competition invites all the artistic
-individuals from all around to come in the limelight by winning this
-face-off. Get ready for the battle.
+Mehndi is a form of body art since the ancient times in India. While on the other hand, tattoos are also a form of body art which was initially popular in the west. The face-off between the two would definitely be a visual treat to your eyes. This competition invites all the artistic individuals from all around to come in the limelight by winning this face-off. Get ready for the battle.
 
 **Team size:** 2 (1 artist + 1 canvas)
 
@@ -629,10 +584,7 @@ Literature of poem, Art of speaking, Time taken
 
 *\[conventional Debate competition\]*
 
-Ever felt confident that your oration skills are so refined that you can
-convince the listeners that your side of argument is desirable? Could
-you fight the battle of words and come up victorious like the Knight in
-the shining armour? Then, WordWar is the apt platform for you.
+Ever felt confident that your oration skills are so refined that you can convince the listeners that your side of argument is desirable? Could you fight the battle of words and come up victorious like the Knight in the shining armour? Then, WordWar is the apt platform for you.
 
 **Team Size:** 2
 
@@ -695,7 +647,7 @@ the shining armour? Then, WordWar is the apt platform for you.
 # Capture the Flag
 
 CTF is an event which provides a platform for participants to work out
-on real world scenarios like malware analysis ¸pretesting, system
+on real world scenarios like malware analysis ¸pentesting, system
 administration. The game is played in team of four players where each
 team is provided with a real world scenario along with a system where
 they need to seek out a solution which promotes next level. Each level
