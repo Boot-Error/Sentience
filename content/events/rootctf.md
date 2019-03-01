@@ -1,9 +1,9 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
+title = "Rootctf"
 description = ""
 author = ""
 tags = []
-date = {{ .Date }}
+date = 2019-03-01T19:31:30+05:30
 categories = []
 nomenu = "main"
 image="<BACKGROUND IMAGE FOR YOUR POST>"
