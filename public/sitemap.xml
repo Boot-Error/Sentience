@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sentience19.firebaseapp.com/sponsors/</loc>
+    <lastmod>2019-03-01T08:39:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sentience19.firebaseapp.com/categories/</loc>
     <priority>0</priority>
   </url>
