@@ -53,7 +53,7 @@
 						{{ range $name, $items := .Site.Taxonomies.categories }}
 							{{ $itemfiltered := where $items.Pages "Section" "eq" "technicalevents"}}
 							{{ if gt (len $itemfiltered) 0}}
-							<section id="four" class="wrapper alt style1">
+							<section id="four" class="wrapper alt style4 {{$name}}">
 								<div class="inner">
 									<h2 class="major">{{ $name }}</h2>
 									<section class="features">

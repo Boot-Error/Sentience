@@ -6,7 +6,7 @@ tags = []
 date = 2019-03-01T21:51:44+05:30
 categories = ["Music"]
 nomenu = "main"
-image="<BACKGROUND IMAGE FOR YOUR POST>"
+image="posters/Posters/Acappella.jpg"
 authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++

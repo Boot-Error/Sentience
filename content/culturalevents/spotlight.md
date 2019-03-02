@@ -6,7 +6,7 @@ tags = ["group dance"]
 date = 2019-03-01T19:31:29+05:30
 categories = ["Dance"]
 nomenu = "main"
-image="<BACKGROUND IMAGE FOR YOUR POST>"
+image="posters/Posters/spotlight.jpg"
 authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
