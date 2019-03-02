@@ -54,11 +54,12 @@
 
 						<!-- Four -->
 						{{ range $name, $items := .Site.Taxonomies.categories }}
+							{{ if gt (len (where $items.Pages "Section" "eq" "culturalevents")) 0}}
 							<section id="four" class="wrapper alt style1">
 								<div class="inner">
 									<h2 class="major">{{ $name }}</h2>
 									<section class="features">
-										{{ range $items.Pages }}
+										{{ range where $items.Pages "Section" "eq" "culturalevents"}}
 										<article>
 											<a href="#" class="image"><img src={{ "{{$name}}.jpg" | absURL  }} alt="" /></a>
 											<h3 class="major">{{ .Title }}</h3>
@@ -72,6 +73,7 @@
 									<!-- </ul> -->
 								</div>
 							</section>
+							{{ end }}
 							{{ end }}
 
 					</section>
