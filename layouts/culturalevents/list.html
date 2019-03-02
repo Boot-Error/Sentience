@@ -53,15 +53,20 @@
 									<section class="features">
 										{{ range where $items.Pages "Section" "eq" "culturalevents"}}
 										<article>
-											<a href="#" class="image">
-												<img 
+											<a href={{ .Permalink }} class="image">
+<!-- 												<img 
 													src={{.Params.image| absURL}} 
 													alt="" 
-												/>
+													height="250" 
+												/> -->
 											</a>
-											<h3 class="major">{{ .Title }}</h3>
+											<h3 class="major">
+												<a href={{ .Permalink }} style="text-decoration: underline;">
+													{{ .Title }}
+												</a>	
+											</h3>
 											<p>{{ .Description }}</p>
-											<a href={{ .Permalink }} class="special">Learn more</a>
+										<!-- 	<a href={{ .Permalink }} class="special">Learn more</a> -->
 										</article>
 										{{ end }}
 									</section>
