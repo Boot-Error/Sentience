@@ -1,17 +1,17 @@
 +++
-title = "Code Golf"
-description = "Code Golf is a competitive coding challenge for all the geeks out there, but what makes it different is, you have to code short to fetch more marks. Lesser you code, better you score. Though what's priceless is solving interesting problems and the thrill of competition. To deal with it, you require a level patience and skill that escapes ordinary programmers. Are you ready?"
+title = "Endgame"
+description = ""
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
-categories = ["Coding Events"]
+categories = ["Robotics Events"]
 nomenu = "main"
 image="<BACKGROUND IMAGE FOR YOUR POST>"
 authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
 
-Code Golf is a competitive coding challenge for all the geeks out there, but what makes it different is, you have to code short to fetch more marks. Lesser you code, better you score. Though what\'s priceless is solving interesting problems and the thrill of competition. To deal with it, you require a level patience and skill that escapes ordinary programmers. Are you ready?
+
 
 **Team size:** 1-2
 

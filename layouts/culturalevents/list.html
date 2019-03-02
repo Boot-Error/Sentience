@@ -54,7 +54,7 @@
 
 						<!-- Four -->
 						{{ with .Site.GetPage "section" "culturalevents" }}
-							{{ .Categories }}
+							{{ range .Paginator.Pages}}
 							<section id="four" class="wrapper alt style1">
 								<div class="inner">
 									<h2 class="major">{{ .Title }}</h2>

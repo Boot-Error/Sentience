@@ -3,7 +3,7 @@ abhinaya.md
 breakfree.md
 clashofcodes.md
 codegolf.md
-colosplash.md
+colorsplash.md
 goonj.md
 odessey.md
 reversecoding.md
