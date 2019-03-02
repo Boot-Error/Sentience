@@ -646,18 +646,7 @@ Ever felt confident that your oration skills are so refined that you can convinc
 
 # Capture the Flag
 
-CTF is an event which provides a platform for participants to work out
-on real world scenarios like malware analysis ¸pentesting, system
-administration. The game is played in team of four players where each
-team is provided with a real world scenario along with a system where
-they need to seek out a solution which promotes next level. Each level
-is associated with different kind of scenario of increasing difficulty.
-This allows the participants to apply various concepts and techniques to
-reach a solution. The game is entirely based on Command line interface.
-The team is given secured access to a system to analyse, execute
-instructions to find the flag. The games assume players to have
-knowledge in computer engineering such as files, networking, various
-tools of system administration.
+CTF is an event which provides a platform for participants to work out on real world scenarios like malware analysis ¸pentesting, system administration. The game is played in team of four players where each team is provided with a real world scenario along with a system where they need to seek out a solution which promotes next level. Each level is associated with different kind of scenario of increasing difficulty. This allows the participants to apply various concepts and techniques to reach a solution. The game is entirely based on Command line interface. The team is given secured access to a system to analyse, execute instructions to find the flag. The games assume players to have knowledge in computer engineering such as files, networking, various tools of system administration.
 
 **Team size:** 1-3
 
