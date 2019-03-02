@@ -87,7 +87,8 @@ title = "Sentience"
     icon = "icon-present"
     title = "Technical Events"
     img = "images/eve1.png"
-    description = "Details to be disclosed soon."
+    description = ""
+	path = "/technicalevents"
 
 		[[params.services.item.subcategory]]
 			title = "Robotics"
@@ -104,7 +105,9 @@ title = "Sentience"
     icon = "icon-eye"
     title = "Cultural Events"
     img = "images/eve2.jpg"
-    description = "Details to be disclosed soon."
+    description = ""
+	path = "/culturalevents"
+
 
 		[[params.services.item.subcategory]]
 			title = "Music"

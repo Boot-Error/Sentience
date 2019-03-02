@@ -16,6 +16,7 @@
   		      <div class="icon"><i class={{ .icon }}></i></div>
   		      <h3>{{ .title  | markdownify }}</h3>
   		      <p>{{ .description | markdownify }}</p>
+			  <a href="{{ .path }}">Learn more</a>
           </div>
 	      </div>
 	    {{ end }}
