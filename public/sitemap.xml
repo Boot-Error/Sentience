@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>https://sentience19.firebaseapp.com/events/</loc>
+  </url>
+  
+  <url>
     <loc>https://sentience19.firebaseapp.com/categories/</loc>
     <priority>0</priority>
   </url>
