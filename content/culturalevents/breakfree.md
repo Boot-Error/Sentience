@@ -4,7 +4,7 @@ description = "Break free or die tryin'! an inter-college dance competition, bre
 author = ""
 tags = []
 date = 2019-03-01T19:31:29+05:30
-categories = ["Dance Events"]
+categories = ["Dance"]
 nomenu = "main"
 image="<BACKGROUND IMAGE FOR YOUR POST>"
 +++
