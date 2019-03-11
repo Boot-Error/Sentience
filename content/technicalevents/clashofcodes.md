@@ -1,5 +1,5 @@
 +++
-title = "Clashofcodes"
+title = "Clash of Codes"
 description = "Outwit, outplay, outlast"
 author = ""
 tags = []

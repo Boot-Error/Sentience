@@ -27,9 +27,10 @@ Poetry slam is currently the best trend going on in the literature
 world. Speaking is as good an art as is writing and Poetry Slam is just
 the perfect mix of both of these arts.
 
-**Time limit:** up to 5min
+## Event Criteria
 
-**Judging Criteria:** Binding the audience, Reaction of audience,
+- **Time limit:** up to 5min
+- **Judging Criteria:** Binding the audience, Reaction of audience,
 Literature of poem, Art of speaking, Time taken
 
 ## General rule
@@ -42,7 +43,7 @@ Literature of poem, Art of speaking, Time taken
 -   All the participants have to be present at the venue of the event before half hour of the commencing of the event to verify their poems and participation.
 -   The poets are allowed to put Hindi and/or Urdu along with English in their poems or present their poems strictly in Hindi or Urdu or English.
 
-## Terms and Conditions:
+## Terms and Conditions
 
 -   Only 1 entry per participant is allowed.
 -   Judge's (Judges') decision will be final and absolute. They also have the right to alter any of the rules at any moment.

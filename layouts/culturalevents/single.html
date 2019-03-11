@@ -6,13 +6,18 @@
 -->
 <html>
 	<head>
-		<title>Hyperspace by HTML5 UP</title>
+		<title>{{ .Title }} Sentience 2019</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href={{ "assets-single/css/main.css" | absURL }} />
 		<style type="text/css">
 			#TableOfContents > ul, #TableOfContents > ul > li > ul {
 				list-style: none;
+			}
+			#register-btn {
+				margin-left: 10vw;
+				margin-right: 10vw;
+				margin-bottom: 5vh;
 			}
 		</style>
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -44,17 +49,20 @@
 						<div class="inner">
 							{{ .Content }}
 						</div>
+						<button onClick="window.location.href='https://www.thecollegefever.com/events/sentience-2019-the-techno-cultural-fest';" id="register-btn">Register Now!</button>
 					</section>
 			</div>
 
 		<!-- Footer -->
-			<!-- <footer id="footer" class="wrapper style1&#45;alt"> -->
-			<!-- 	<div class="inner"> -->
-			<!-- 		<ul class="menu"> -->
-			<!-- 			<li>&#38;copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li> -->
-			<!-- 		</ul> -->
-			<!-- 	</div> -->
-			<!-- </footer> -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Sentience 19. All rights reserved.</li>
+						<li><a href="/">Home</a></li>
+						<li><a href="/culturalevents">Go Back</a></li>
+					</ul>
+				</div>
+			</footer>
 
 		<!-- Scripts -->
 			<script src={{ "assets-single/js/jquery.min.js" | absURL }}></script>

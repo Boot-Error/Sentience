@@ -1,6 +1,6 @@
 +++
 title = "Runaway"
-description = "Fashion is art and you, the canvas. From hair to makeup to dressing to confidence; everything matters once you're up on that stage. This event is for all the lovely ladies and gentlemen who know how to step up their looks and style! Participants will be given a theme and they will have to dress up according to it. So, are you up for the challenge? This individual event is for all fashion lovers; come on up and show us your Jalwa!"
+description = "Fashion is art and you, the canvas. From hair to makeup to dressing to confidence; everything matters once you're up on that stage."
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -13,10 +13,11 @@ profileLink="<WITHOUT HTTP:// PART>"
 
 "Fashion is art and you, the canvas." From hair to makeup to dressing to confidence; everything matters once you're up on that stage. This event is for all the lovely ladies and gentlemen who know how to step up their looks and style! Participants will be given a theme and they will have to dress up according to it. So, are you up for the challenge? This individual event is for all fashion lovers; come on up and show us your Jalwa!
 
-**Team Size:** up to 20 (including backstage crew and sound attendant)
+## Event Criteria
 
-**Time limit:** 6-10 min\
-**Judging Criteria:** - Designing, Ramp walk, Attitude, Choreography and
+- **Team Size:** up to 20 (including backstage crew and sound attendant)
+- **Time limit:** 6-10 min
+- **Judging Criteria:** - Designing, Ramp walk, Attitude, Choreography and
 Coordination, Relevance to theme, Overall appearance
 
 ## General Rules:

@@ -3,12 +3,13 @@
 	<head>
 		<title>Cultural Events Sentience</title>
 		<meta charset="utf-8" />
-		{{ partial "header.html"}}
+		<!-- {{ partial "header.html"}} -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href={{ "assets/css/main.css" | absURL }} />
+		<link rel="stylesheet" href="/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style type="text/css"></style>
 	</head>
-	<body class="is-preload">
+	<body class="is-preload" style="background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url('bg.jpg')">
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
@@ -34,9 +35,9 @@
 					</nav>
 
 				<!-- Banner -->
-					<section id="banner">
+					<section id="banner" >
 						<div class="inner">
-							<div class="logo"><span class="icon fa-diamond"></span></div>
+							<!-- <div class="logo"><span class="icon fa&#45;guitar"></span></div> -->
 							<h2>Cultural Events</h2>
 							<p>Cultural events of Sentience 2019</p>
 						</div>
@@ -78,7 +79,7 @@
 							{{ end }}
 
 					</section>
-					{{ partial "footer.html" . }}
+					<!-- {{ partial "footer.html" . }} -->
 				<!-- Footer -->
 					<section id="footer">
 
@@ -123,12 +124,12 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src={{ "assets/js/jquery.min.js" | absURL }}></script>
-			<script src={{ "assets/js/jquery.scrollex.min.js" | absURL }}></script>
-			<script src={{ "assets/js/browser.min.js" | absURL }}></script>
-			<script src={{ "assets/js/breakpoints.min.js" | absURL }}></script>
-			<script src={{ "assets/js/util.js" | absURL }}></script>
-			<script src={{ "assets/js/main.js" | absURL }}></script>
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.scrollex.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
 
 	</body>
 </html>

@@ -6,20 +6,20 @@
 
 /*CSS for diff categories*/
 .wrapper.art{
-	background:#fc0557;
+	background:#2179a5;
 }
 .wrapper.art:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23fc0557' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232179a5' /%3E%3C/svg%3E");
 }
 .wrapper.art:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23fc0557' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%232179a5' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
 }
 .wrapper.art:before {
-	box-shadow: inset 0 -1px 0 0 #fc0557, 0 1px 0 0 #fc0557;
+	box-shadow: inset 0 -1px 0 0 #2179a5, 0 1px 0 0 #2179a5;
 }
 
 .wrapper.art:after {
-	box-shadow: inset 0 -1px 0 0 #fc0557, 0 1px 0 0 #fc0557;
+	box-shadow: inset 0 -1px 0 0 #2179a5, 0 1px 0 0 #2179a5;
 }
 .wrapper.dance{
 	background:#1d1d2c;
@@ -38,74 +38,66 @@
 	box-shadow: inset 0 -1px 0 0 #1d1d2c, 0 1px 0 0 #1d1d2c;
 }
 .wrapper.dramatics{
-	background:#438945;
+	background:#158c78;
 }
 .wrapper.dramatics:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23438945' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23158c78' /%3E%3C/svg%3E");
 }
 .wrapper.dramatics:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23438945' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23158c78' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
 }
 .wrapper.dramatics:before {
-	box-shadow: inset 0 -1px 0 0 #438945, 0 1px 0 0 #438945;
+	box-shadow: inset 0 -1px 0 0 #158c78, 0 1px 0 0 #158c78;
 }
-
 .wrapper.dramatics:after {
-	box-shadow: inset 0 -1px 0 0 #438945, 0 1px 0 0 #438945;
+	box-shadow: inset 0 -1px 0 0 #158c78, 0 1px 0 0 #158c78;
 }
 .wrapper.fashion{
-	background:#3cbcc3;
+	background:#5434ad;
 }
 .wrapper.fashion:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233cbcc3' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%235434ad' /%3E%3C/svg%3E");
 }
 .wrapper.fashion:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%233cbcc3' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%235434ad' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
 }
 .wrapper.fashion:before {
-	box-shadow: inset 0 -1px 0 0 #3cbcc3, 0 1px 0 0 #3cbcc3;
+	box-shadow: inset 0 -1px 0 0 #5434ad, 0 1px 0 0 #5434ad;
 }
 
 .wrapper.fashion:after {
-	box-shadow: inset 0 -1px 0 0 #3cbcc3, 0 1px 0 0 #3cbcc3;
+	box-shadow: inset 0 -1px 0 0 #5434ad, 0 1px 0 0 #5434ad;
 }
 .wrapper.literature{
-	background:#eba63f;
+	background:#9b8131;
 }
 .wrapper.literature:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23eba63f' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%239b8131' /%3E%3C/svg%3E");
 }
 .wrapper.literature:before {
-	box-shadow: inset 0 -1px 0 0 #eba63f, 0 1px 0 0 #eba63f;
-}
-
-.wrapper.literature:after {
-	box-shadow: inset 0 -1px 0 0 #eba63f, 0 1px 0 0 #eba63f;
+	box-shadow: inset 0 -1px 0 0 #9b8131, 0 1px 0 0 #9b8131;
 }
 .wrapper.literature:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23eba63f' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+	box-shadow: inset 0 -1px 0 0 #9b8131, 0 1px 0 0 #9b8131;
+}
+.wrapper.literature:after {
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%239b8131' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
 }
 .wrapper.music{
-	background:#438945;
+	background:#870031;
 }
 .wrapper.music:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23438945' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23870031' /%3E%3C/svg%3E");
 }
 .wrapper.music:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23438945' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23870031' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
 }
 .wrapper.music:before {
-	box-shadow: inset 0 -1px 0 0 #438945, 0 1px 0 0 #438945;
+	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
 }
-
 .wrapper.music:after {
-	box-shadow: inset 0 -1px 0 0 #438945, 0 1px 0 0 #438945;
+	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
 }
-/*
-	Solid State by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -199,7 +191,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg"); 
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("bg.jpg"); 
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -3528,7 +3520,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
-				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
@@ -3637,7 +3629,7 @@ input, select, textarea {
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("bg.jpg");
 			background-size: auto, cover;
 			background-position: center, 0% 30%;
 			margin-bottom: -6.5em;
