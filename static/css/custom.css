@@ -13,6 +13,12 @@
 	display: block !important;
 	
 }
+@media only screen and (max-width:10in){
+	.titleimage{
+		width: 100vw !important;
+	}	
+}
+
 
 	/* EVENTS */
 .events-cont{
