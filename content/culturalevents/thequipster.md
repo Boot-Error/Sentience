@@ -1,5 +1,5 @@
 +++
-title = "Thequipster"
+title = "The Quipster"
 description = "All ya gotta do is make people laugh! easier said than done."
 author = ""
 tags = []
@@ -11,12 +11,14 @@ authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
 
-"life doesn\'t make any sense, and we all pretend it does. comedy\'s job is to point out that it doesn\'t make sense, and that it doesn\'t make much difference anyway." stand-up comedy, whether prepared or improvised, is a difficult yet rewarding art form. all ya gotta do is make people laugh! easier said than done. if you have what it takes to make people laugh in the blink of an eye, then that's what we are waiting for. stand up, make people laugh and be the celebrity. if you think you can you have delightful tongue-in-cheek humour, then this here is your opportunity to showcase your hilarious talent!
+"Life doesn't make any sense, and we all pretend it does. Comedy's job is to point out that it doesn't make sense, and that it doesn't make much difference anyway." 
+
+Stand-up comedy, whether prepared or improvised, is a difficult yet rewarding art form. All ya gotta do is make people laugh! easier said than done. If you have what it takes to make people laugh in the blink of an eye, then that's what we are waiting for. Stand up, make people laugh and be the celebrity. If you think you can you have delightful tongue-in-cheek humour, then this here is your opportunity to showcase your hilarious talent!
 
 ## Event Criteria
 
-- **time limit:** 5-10 min
-- **judging criteria:** content, comic timing, audience engagement,
+- **Time limit:** 5-10 min
+- **Judging criteria:** content, comic timing, audience engagement,
 quality of humour, overall performance
 
 ## General rules
