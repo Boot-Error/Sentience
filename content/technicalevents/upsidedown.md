@@ -1,6 +1,6 @@
 +++
 title = "Upside Down"
-description = ""
+description = "Mike, Dustin, Lucas, Nancy, Jonathan and other friends are trapped in The Upside Down. You are Eleven. the only one powerful enough to rescue them. Bring them back home!"
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -10,4 +10,49 @@ image="<BACKGROUND IMAGE FOR YOUR POST>"
 authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
+
+Mike, Dustin, Lucas, Nancy, Jonathan and other friends are trapped in The Upside Down. You
+are Eleven. the only one powerful enough to rescue them. Bring them back home but only one at
+a time. Avoid demogorgans, take your friends safely to the portal back home.
+All the characters trapped are represented by different coloured balls. Every character has its
+own importance and so does the ball. The balls are classified in 3 colours each having different
+points and count all trapped in different locations in the upside down.
+RED – 4 balls
+GREEN- 6 balls
+BLUE- 12 balls
+
+In order to get your friends back home, the robot must push the balls into the basket,
+representing portals. However, there are demogorgans in your way, the obstacles. You must
+avoid them. At a time 3 robots will play, all trying to collect 1 ball at a time and reach the portal.
+The robot able to score maximum points at end of game will be declared the winner.
+
+## Arena
+
+<p align="center">
+	<img style="width: 50%" alt="upside down arena" src="/images/Screeenshot_from_2019-03-14_15-18-17.png"></img>
+</p>
+
+## Rules
+
++ 3 bots to compete at one time.
++ In case of 3n+1 robots, the left bot will be given a bye.
++ In case of 3n+2 bots, the 2 bots compete with each other in a 4 minutes game.
++ Time limit of event-7 minutes.
++ Ball needs to be pushed into the basket ALLOTED TO THEM without crossing the finish line.
++ The bot is not to be touched by any human after the game starts.
++ You can’t overtake any obstacle.
++ The robot needs to be in the arena for the gametime.
++ No weapons allowed.
+
+## Scoring
+
+If the ball successfully goes into the basket, you score!
+
+| Action                    | Points |
+|---------------------------|--------|
+| Basket Red ball           | 3      |
+| Basket Green Ball         | 2      |
+| Basket Blue Ball          | 1      |
+| Hit any obstacle          | -1     |
+| Collision with other bots | -1     |
 

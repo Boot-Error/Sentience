@@ -239,8 +239,8 @@ title = "Sentience"
 # Contact section
 [params.contact]
   enable = true
-  title = "Get In Touch"
-  message = "For sponsorship and event details, contact"
+  title = "The Sentience19 Team"
+  message = "The backbones of Setience NITD 19"
 
 	[[params.contact.section]]
 		section = "Core Committee"
@@ -286,6 +286,41 @@ title = "Sentience"
 			phno = "+91 99684 30077"
 			position = "Sponsorship"
 
+		[[params.contact.section.item]]
+			name = "Sangeeta"
+			phno = "+91 94902 19662"
+			position = "Sponsorship"
+
+	[[params.contact.section]]
+		section = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Kritika"
+			phno = "+91 81308 33910"
+			position = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Suruchi"
+			phno = "+91 88260 31570"
+			position = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Shakya"
+			phno = "+91 99997 67902"
+			position = "Marketing"
+
+	[[params.contact.section]]
+		section = "Hospitality"
+
+		[[params.contact.section.item]]
+			name = "Pooja Singh"
+			phno = "+91 95994 65488"
+			position = "Hospitality"
+
+		[[params.contact.section.item]]
+			name = "Pooja Kumari"
+			phno = "+91 85859 64798"
+			position = "Hospitality"
 
    # name_placeholder = "Your name"
   # email_placeholder = "Your email"
