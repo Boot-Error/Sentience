@@ -18,6 +18,11 @@ cursed and the treasure will turn to dust after 5 min of you landing on island.
 Collect the treasure, steal Blackbeard treasure and defend your treasure. Let’s see
 which pirate becomes ‘KING OF THE SEVEN SEAS’.
 
+## Event Criteria
+- Team size: 2-3
+- Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
+- Robot Weight: 1.5kg
+
 ## Arena
 
 <p align="center">

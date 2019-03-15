@@ -88,14 +88,11 @@ to win the tournament. Also, defend your own loop. Remember, NO MAGIC 
 9. The penalty shoot out must be taken from the position marked on arena. Only 10 seconds will be given to take shoot.
 
 ### CONSTRAINTS ON ROBOT
-1. Height:
-2. Width:
-3. Weight:
-4. Length:
-5. Power supply:
+- Robot Dimensions: 30cms * 30cms * 25cms
+- Robot Weight: 1.5kg
 
 ### CONSTRAINTS ON TEAM
-1. Atmost 2 members per team.
+1. Team size: 2-3
 2. Participation fee:
 
 ## Chamber of Secrets:
@@ -136,10 +133,6 @@ wide or no balls etc), it shall be eliminated and batsman wins.
 - The team with maximum score wins !!!
 
 ### Constraints on robots
-- Height:
-- Length:
-- Width:
-- Weight :
 - Type: Manual (Wired and Wireless)
 - Power Supply :
 - Design : the front of the batsman bot should be a flat wooden/metallic sheet with no mechanism to hold the ball. The bowler bot however can have such a directing mechanism provided it is removable and re-attachable. (As shown in Arena Design)

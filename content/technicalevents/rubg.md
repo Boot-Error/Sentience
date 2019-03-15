@@ -21,6 +21,12 @@ You are one of its recruits, and dying is no option for you. Collect your own we
 and earn the glory. So, be prepared for the ultimate battle....the only word of advice we have for you is ...
 SURVIVE !!!
 
+## Event Criteria
+- Team size: 2-3
+- Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
+- Robot Weight: 1.5kg
+
+
 ## Arena Design
 
 ### Island Map

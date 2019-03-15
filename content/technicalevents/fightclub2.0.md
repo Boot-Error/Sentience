@@ -22,6 +22,11 @@ your chances of getting the tag. Kill and win.
 Show the world, your strengths, surprise them with your innovation and let
 your era begin.
 
+## Event Criteria
+- Team size: 2-3
+- Robot Dimensions: 30cms * 30cms * 40cms (length * breadth * height)
+- Robot Weight: no limit
+
 ## Arena
 
 <p align="center">

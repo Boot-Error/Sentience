@@ -26,6 +26,11 @@ Thanos is over confident and has given you a set of 10 riddles, the answer to wh
 the room number having real components. He is pretty sure that you are not smart enough to crack the
 riddles.
 
+## Event Criteria
+- Team size: 2-3
+- Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
+- Robot Weight: 1.5kg
+
 ## Arena
 
 <p align="center">

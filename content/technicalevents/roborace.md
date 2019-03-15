@@ -20,7 +20,14 @@ and show the world the strength of your adrenaline rush.
 
 Race that fast......time becomes slower....
 
-Get to the blocks,run your race, stay relaxed,if you run your race ,you will win.
+Get to the blocks, run your race, stay relaxed, if you run your race, you will win.
+
+## Event Criteria
+
+- Team size: 2-3
+- Robot Dimensions: 30cms * 30cms * 25cms
+- Robot Weight: 1.5kg
+
 
 ## Rules
 1. One bot will race at a time.
