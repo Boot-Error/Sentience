@@ -3,40 +3,6 @@
 
 
 
-.wrapper.coding{
-	background:#2179a5;
-}
-.wrapper.coding:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232179a5' /%3E%3C/svg%3E");
-}
-.wrapper.coding:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%232179a5' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
-}
-.wrapper.coding:before {
-	box-shadow: inset 0 -1px 0 0 #2179a5, 0 1px 0 0 #2179a5;
-}
-
-.wrapper.coding:after {
-	box-shadow: inset 0 -1px 0 0 #2179a5, 0 1px 0 0 #2179a5;
-}
-.wrapper.robotics{
-	background:#1d1d2c;
-}
-.wrapper.robotics{
-	background:#870031;
-}
-.wrapper.robotics:before {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23870031' /%3E%3C/svg%3E");
-}
-.wrapper.robotics:after {
-	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23870031' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
-}
-.wrapper.robotics:before {
-	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
-}
-.wrapper.robotics:after {
-	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
-}
 
 /*CSS for diff categories*/
 .wrapper.art{
@@ -132,7 +98,21 @@
 .wrapper.music:after {
 	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
 }
-
+.wrapper.online{
+	background:#870031;
+}
+.wrapper.online:before {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23870031' /%3E%3C/svg%3E");
+}
+.wrapper.online:after {
+	background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%23870031' preserveAspectRatio='none'%3E%3Cpolygon points='0,0 100,100 0,100' /%3E%3C/svg%3E");
+}
+.wrapper.online:before {
+	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
+}
+.wrapper.online:after {
+	box-shadow: inset 0 -1px 0 0 #870031, 0 1px 0 0 #870031;
+}
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,

@@ -22,28 +22,6 @@ Race that fast......time becomes slower....
 
 Get to the blocks,run your race, stay relaxed,if you run your race ,you will win.
 
-## Arena Description
-
-<p align="center">
-	<img style="width: 50%" alt="upside down arena" src="/images/Screeenshot_from_2019-03-14_15-18-03.png"></img>
-</p>
-
-
-The Arena consists of mainly 9 checkpoints( 10 parts ).
-Between any two checkpoints there is some difficulty which team has to overcome.
-
-+ **First part** consist of pendulums oscillating with anti direction to each other.
-+ **Second part** consists of some blocks and empty space which bot has to fill to move forward.
-+ **Third part** have oil on the surface and after that curved wire grid.
-+ **Fourth part** is the curved path with paths only on side so bots have to move forward with precision.
-+ **Fifth part** contains an inclined path.To make it horizontal bot have to move to second path and hit the supporting pole. After that their comes path containing wedges.
-+ **Sixth part** is a maze which consists of pucks spread randomly in the maze. Bots have to collect all the pucks and move out of the maze.
-+ **Seventh part** is an inclined path on which teams have to move the given box and fill the blank.
-+ **Eighth part** consists of slippery balls and then a folded path which teams have to uncover and move forward.
-+ **Nineth part** is a curve on which team as move as fast as possible and take a jump on the sand to reach the finish line.
-
-After every part their is a checkpoint.
-
 ## Rules
 1. One bot will race at a time.
 2. Bot has to pass through each checkpoint to reach the finish line.
