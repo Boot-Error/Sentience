@@ -6,6 +6,7 @@ script:
 
 deploy:
     provider: firebase
-    token:
-        secure: "bJALv22iSXTGDIojo6m0Z3fSTh5+kq0J3sFhCk0KOZ5X+9HggeVxehBHgWHlDZ7rpeemIBwTkzJVYRuMQ78d3aTiLfeaRN8w80ENyU+zFxSC5Ck7R1Jgm8JVESom7LNxEdEwOto97LDzpbBR4Q1IemkSuVptGk1VCiI/xOvgnj2Dog3H6cGCoDLq/m8ohnCyeRrmg1IuqFP/TW6qtCrK2VAMkmp0LypTOczH9TqzHoQa8bb3iy7tqNYao7bxgSbcBvrqOB3ItaJgXw/YHAuf8uI4hfX1oHqu2Aqna4RWJNfsaDTg8ID7nmyT3+O9jlewfFjqCCCnDf7jpHm4P8X/uFCPwcxsKvZJxuEcOvbT8pylgcIDaqsMQMky7UDqD6abuKc0RxPuHXrF5S/5AN853RczOjO5XpNZ6Scb0ikLXmZhYeXqTD5989uRqwZzuM33n09hrwm7CdDQeWP4JT3/gbRfV1XQ/4XUr897E6ueS+mqGmqjrADuJIcmA0Azn3FTQ1RfImbv3DB3xoi7hK2eckl6lZewZOIxWAnS8CAK0aSmOiNg0X39OU3GR7m7Us4yaQU82XTEvZaZjawpFQ8m3VLhuLHM5jLEaSOdpabUzzgOu2Nz7p1rOS3IPUg85DbjfbKwoRMeNzWGwbf6QrLnqrDTw+ItD0Ic2jxsJZE2C1c="
+    token: $FIREBASE_TOKEN  
     project: "sentience"
+    on:
+        branch: master
