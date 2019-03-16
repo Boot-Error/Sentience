@@ -240,7 +240,7 @@ title = "Sentience"
 [params.contact]
   enable = true
   title = "The Sentience19 Team"
-  message = "The backbones of Setience NITD 19"
+  message = "The backbones of Sentience 19"
 
 	[[params.contact.section]]
 		section = "Core Committee"

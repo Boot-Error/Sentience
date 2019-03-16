@@ -16,7 +16,7 @@ var insertTimer = function() {
 	var timeUnits = ['months', 'days', 'hours', 'minutes', 'seconds']
 	var vals = timeUnits
 				.map(function(x){return { unit: x, val: timeLeft.get(x) }})
-				.filter(function(x){return x.val >= 0 });
+				.filter(function(x){return x.val > 0 });
 
 	var timerDiv = document.getElementById('countdown-timer');
 	vals.forEach(function(c) {
