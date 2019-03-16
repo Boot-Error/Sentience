@@ -7,6 +7,7 @@ script:
 deploy:
     provider: firebase
     token: $FIREBASE_TOKEN  
+    skip_cleanup: true
     project: "sentience19"
     on:
         branch: master
