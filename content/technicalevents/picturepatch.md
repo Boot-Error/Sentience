@@ -42,3 +42,5 @@ your Talent and send a message to the audience.
 	- Copy of the Original Photos.
 	- Editing Software Used.
 	- Message that the submission portrays.
+
+<p align="center">In order to participate, please first register on the College Fever website by clicking the register button below.</p>

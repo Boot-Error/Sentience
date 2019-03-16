@@ -27,7 +27,7 @@
 		<!-- Sidebar -->
 			<section id="sidebar">
 				<div class="inner">
-					{{ .TableOfContents }}
+					{{ .TableOfContents | emojify }}
 				</div>
 			</section>
 
@@ -47,7 +47,7 @@
 
 					<section id="contents" class="wrapper style2 fullscreen fade-up">
 						<div class="inner">
-							{{ .Content }}
+							{{ .Content | emojify }}
 						</div>
 						<button onClick="window.location.href='https://www.thecollegefever.com/events/sentience-2019-the-techno-cultural-fest';" id="register-btn">Register Now!</button>
 					</section>
