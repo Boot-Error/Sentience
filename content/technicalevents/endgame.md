@@ -60,11 +60,11 @@ consideration. **Time allotted is 4 minutes at most.**
 
 1. Real component: +3 points.
 2. Fake component: -1 points
-3. If someone completes the even before time, here is how points shall be given:
+3. If someone completes the event before time, here is how points shall be given:
 
 |                   |                          |
 |-------------------|--------------------------|
-| 15 seconds before | +1 points shall be given |
+| 15 seconds before | +1 point  shall be given |
 | 30 seconds before | +2 points shall be given |
 | 45 seconds before | +3 points shall be given |
 | 60 seconds before | +4 points shall be given |

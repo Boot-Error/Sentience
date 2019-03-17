@@ -14,7 +14,7 @@ profileLink="<WITHOUT HTTP:// PART>"
 You are the Captain Jack Sparrow, sailing across Caribbean Sea. You have
 finally found the island with *'The lost treasure'*. But you are not alone!! Your
 archenemy-Blackbeard has also reached the island following you. The island is
-cursed and the treasure will turn to dust after 5 min of you landing on island.
+cursed and the treasure will turn to dust after 7 min of you landing on island.
 Collect the treasure, steal Blackbeard treasure and defend your treasure. Let’s see
 which pirate becomes ‘KING OF THE SEVEN SEAS’.
 

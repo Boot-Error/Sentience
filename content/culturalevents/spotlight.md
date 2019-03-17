@@ -16,11 +16,11 @@ another."
 
 If the blowing wind tempts your body to move, if the drizzling
 rain makes you dance your heart out; then spotlight is the right place
-for you to unveil your dancing skills. be it classical, hip hop,
+for you to unveil your dancing skills. Be it classical, hip hop,
 lyrical, contemporary, locking or bollywood, through spotlight, the
 biggest solo dance extravaganza in sentience'19, the stage is set for
 all enthusiastic dancers who have the art deeply rooted in their veins.
-get ready for the spotlight to be on you, and only you.
+Get ready for the spotlight to be on you, and only you.
 
 ## Event Criteria
 
