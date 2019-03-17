@@ -20,6 +20,7 @@ title = "Sentience"
   events = "Events"
   talks = "Talks"
   team = "Team"
+  timeline = "Timeline"
   workshops = "Workshops"
   sponsors = "Sponsors"
   contact = "Contact"
@@ -185,6 +186,171 @@ title = "Sentience"
     subtitle = "Web Design"
     img = "images/img_4.jpg"
 
+[params.timeline]
+	enable = true
+	title = "Timeline"
+
+	[[params.timeline.day]]
+		date = "Thursday 4th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "04:00 pm"
+			eventname = "Opening Ceremony"
+
+		[[params.timeline.day.event]]
+			starttime = "05:00 pm"
+			eventname = "Spotlight"
+			link = "/culturalevents/spotlight"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "Sukhmanch"
+
+	[[params.timeline.day]]
+		date = "Friday 5th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "NITDPL"
+			link = "/technicalevents/nitdpl"
+
+		[[params.timeline.day.event]]
+			starttime = "10:30 am"
+			eventname = "Goonj"
+			link = "/culturalevents/goonj"
+
+		[[params.timeline.day.event]]
+			starttime = "12:00 pm"
+			eventname = "Fight Club"
+			link = "/technicalevents/fightclub2.0"
+
+		[[params.timeline.day.event]]
+			starttime = "01:00 pm"
+			eventname = "Acapella"
+			link = "/culturalevents/acapella"
+
+		[[params.timeline.day.event]]
+			starttime = "01:30 pm"
+			eventname = "Kalachitra"
+			link = "/culturalevents/kalachitra"
+
+		[[params.timeline.day.event]]
+			starttime = "03:00 pm"
+			eventname = "Crack The Track"
+			link = "/technicalevents/roborace"
+
+		[[params.timeline.day.event]]
+			starttime = "04:00 pm"
+			eventname = "Mono Acting"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "04:30 pm"
+			eventname = "Code Golf"
+			link = "/technicalevents/codegolf"
+
+		[[params.timeline.day.event]]
+			starttime = "05:30 pm"
+			eventname = "Color Splash"
+			link = "/culturalevents/colorsplash"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "Kavi Samelan"
+			link = ""
+
+	[[params.timeline.day]]
+		date = "Saturday 6th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "Capture the flag"
+			link = "/technicalevents/rootctf"
+
+		[[params.timeline.day.event]]
+			starttime = "10:30 am"
+			eventname = "Lost Treasure"
+			link = "/technicalevents/thelosttreasure"
+
+		[[params.timeline.day.event]]
+			starttime = "11:00 am"
+			eventname = "Wordwar"
+			link = "/culturalevents/wordwar"
+
+		[[params.timeline.day.event]]
+			starttime = "12:00 pm"
+			eventname = "Upside Down"
+			link = "/technicalevents/upsidedown"
+
+		[[params.timeline.day.event]]
+			starttime = "01:00 pm"
+			eventname = "Solo Singing"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "02:00 pm"
+			eventname = "The Quipster"
+			link = "/culturalevents/thequipster"
+
+		[[params.timeline.day.event]]
+			starttime = "03:30 pm"
+			eventname = "Triwizardry"
+			link = "technicalevents/robosoccer+robosuperover+robobowling/"
+
+		[[params.timeline.day.event]]
+			starttime = "05:00 pm"
+			eventname = "Breakfree"
+			link = "/culturalevents/breakfree"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "DJ"
+			link = ""
+
+	[[params.timeline.day]]
+		date = "Sunday 7th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "Clash of Codes"
+			link = "/technicalevents/clashofcodes"
+
+		[[params.timeline.day.event]]
+			starttime = "11:00 am"
+			eventname = "End Game"
+			link = "/technicalevents/endgame"
+
+		[[params.timeline.day.event]]
+			starttime = "11:30 am"
+			eventname = "Battle of Bands"
+			link = "/culturalevents/battleofbands"
+
+		[[params.timeline.day.event]]
+			starttime = "01:30 pm"
+			eventname = "Poetry Slam"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "03:00 pm"
+			eventname = "Reverse Coding"
+			link = "/technicalevents/reversecoding"
+
+		[[params.timeline.day.event]]
+			starttime = "03:30 pm"
+			eventname = "RubG"
+			link = "/technicalevents/rubg"
+
+		[[params.timeline.day.event]]
+			starttime = "06:00 pm"
+			eventname = "Theme Walk"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "EDM Night"
+			link = ""
+
+
 # Team section
 [params.team]
   enable = false
@@ -333,6 +499,6 @@ title = "Sentience"
 [params.footer]
   enable = true
   note = "<p><small>&copy; 2019 Sentience NIT Delhi. All Rights Reserved.</small></p>"
-  facebook = "#"
-  instagram = "#"
+  facebook = "https://www.facebook.com/SentienceNITDelhi"
+  instagram = "https://www.instagram.com/sentiencenitdelhi"
   

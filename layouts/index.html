@@ -26,6 +26,9 @@
 	{{ partial "events.html" . }}
 	{{ end }}
 	
+	{{ if .Site.Params.timeline.enable }}
+	{{ partial "timeline.html" . }}
+	{{ end }}
 	
 	{{ if .Site.Params.work.enable }}
 	{{ partial "gallery.html" .}}
