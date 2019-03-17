@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 #theme = "hugo-icon"
-baseURL = "https://sentience19.firebaseapp.com/"
+baseURL = "https://sentiencenitd.in/"
 languageCode = "en-US"
 title = "Sentience"
 
