@@ -327,8 +327,8 @@ title = "Sentience"
 
 		[[params.timeline.day.event]]
 			starttime = "01:30 pm"
-			eventname = "Poetry Slam"
-			link = ""
+			eventname = "ODEssey: Poetry Slam"
+			link = "/culturalevents/odessey"
 
 		[[params.timeline.day.event]]
 			starttime = "03:00 pm"

@@ -1,5 +1,5 @@
 +++
-title = "Odessey"
+title = "ODEssey: Poetry Slam"
 description = "I did not have a big fist to punch them, so I picked up a pen and wrote my punches instead."
 author = ""
 tags = []
