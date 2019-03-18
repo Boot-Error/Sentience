@@ -21,9 +21,9 @@ title = "Sentience"
   talks = "Talks"
   team = "Team"
   timeline = "Timeline"
-  workshops = "Workshops"
   sponsors = "Sponsors"
   contact = "Contact"
+  details = "Details"
   # Include logo instead if HOME:
   logo = "images/sentience_black.png"
 #About section
