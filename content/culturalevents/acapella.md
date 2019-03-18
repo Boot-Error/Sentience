@@ -17,7 +17,7 @@ profileLink="<WITHOUT HTTP:// PART>"
 
 - **Team Size:** 5-15
 - **Time limit:** 8 min
-- **Judging Criteria:** Vocals quality, Rhythm, Harmonies, Synchronization, Overall presence
+- **Judging Criteria:** Vocal tones, Techniques and Skills, Harmonies, Synchronization, Overall impact.
 
 ## General Rules
 

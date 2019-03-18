@@ -15,9 +15,9 @@ Singers are not people who sing, rather, they are entrepreneurs of their own sty
 
 ## Event Criteria
 
-**Team size:** 1-2
-**Time limit:** 6 mins
-**Judging criteria:** Vocal tones, Techniques and Skills,Expression and Stage presence, Overall impact 
+- **Team size:** 1-2
+- **Time limit:** 6 mins
+- **Judging criteria:** Vocal tones, Techniques and Skills,Expression and Stage presence, Overall impact 
 
 ## General Rules
 
