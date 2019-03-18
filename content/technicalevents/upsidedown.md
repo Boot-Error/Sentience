@@ -1,6 +1,6 @@
 +++
 title = "Upside Down"
-description = "Mike, Dustin, Lucas, Nancy, Jonathan and other friends are trapped in The Upside Down. You are Eleven. the only one powerful enough to rescue them. Bring them back home!"
+description = "Upside down is full or dangers and surprises, you never know what comes up next"
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -23,7 +23,7 @@ BLUE- 12 balls
 
 In order to get your friends back home, the robot must push the balls into the basket,
 representing portals. However, there are demogorgans in your way, the obstacles. You must
-avoid them. At a time 3 robots will play, all trying to collect 1 ball at a time and reach the portal.
+avoid them. At a time 2 robots will play, all trying to collect 1 ball at a time and reach the portal.
 The robot able to score maximum points at end of game will be declared the winnere
 
 ## Event Criteria
@@ -40,9 +40,6 @@ The robot able to score maximum points at end of game will be declared the winne
 
 ## Rules
 
-+ 3 bots to compete at one time.
-+ In case of 3n+1 robots, the left bot will be given a bye.
-+ In case of 3n+2 bots, the 2 bots compete with each other in a 4 minutes game.
 + Time limit of event-7 minutes.
 + Ball needs to be pushed into the basket ALLOTED TO THEM without crossing the finish line.
 + The bot is not to be touched by any human after the game starts.

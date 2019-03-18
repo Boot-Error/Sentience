@@ -304,7 +304,7 @@ title = "Sentience"
 
 		[[params.timeline.day.event]]
 			starttime = "07:30 pm"
-			eventname = "DJ"
+			eventname = "EDM Night"
 			link = ""
 
 	[[params.timeline.day]]
@@ -343,11 +343,11 @@ title = "Sentience"
 		[[params.timeline.day.event]]
 			starttime = "06:00 pm"
 			eventname = "Theme Walk"
-			link = ""
+			link = "/culturalevents/runaway"
 
 		[[params.timeline.day.event]]
 			starttime = "07:30 pm"
-			eventname = "EDM Night"
+			eventname = "Coke Studio"
 			link = ""
 
 
