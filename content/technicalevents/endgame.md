@@ -73,3 +73,8 @@ And so on.......
 
 These points of completing before time shall be added to the net score of the participant. The one with the
 most score wins.
+
+## Constraint on Robot
+- Automated
+- Bluetooth Initialised
+- Input/Output Format and size of arena will be conveyed 3 weeks prior via website and email to participants
