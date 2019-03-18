@@ -1,5 +1,5 @@
 +++
-title = "Reversecoding"
+title = "Reverse Coding"
 description = "Think you know everything about programming? Well there are many ways to go, let's see which one you pick."
 author = ""
 tags = []
