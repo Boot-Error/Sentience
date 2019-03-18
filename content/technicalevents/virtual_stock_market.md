@@ -42,4 +42,6 @@ investment skills and win prizes by playing this game.
 1. Every participant is allowed to play the game with single login identity. Participants found playing the game with multiple logins would be disqualified.
 2. Participants can not buy more than a particular amount of shares of a particular company which would be fixed by the game developer team and would be conveyed to all the participants at start of the game.
 
+**Game page link will be shared with the registered participants on their registered email when the game starts on 20th March**
+
 **In case of any ambiguity or controversy, the decision of the coordinating committee shall be binding to all.**
