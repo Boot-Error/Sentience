@@ -436,7 +436,7 @@ title = "Sentience"
 
 		[[params.contact.section.item]]
 			name = "Prathu Singh"
-			phno = "+91 98786 07155"
+			phno = "+91 82218 07751"
 			position = "Event Management"
 
 		[[params.contact.section.item]]
@@ -487,6 +487,32 @@ title = "Sentience"
 			name = "Pooja Kumari"
 			phno = "+91 85859 64798"
 			position = "Hospitality"
+
+	[[params.contact.section]]
+		section = "Infrastructure & logistics"
+
+		[[params.contact.section.item]]
+			name = "Sudhir"
+			phno = "+91 70233 84546"
+
+		[[params.contact.section.item]]
+			name = "Gurpreet"
+			phno = "+91 85718 32001"
+
+		[[params.contact.section.item]]
+			name = "Aynjaney"
+			phno = "+91 94702 87502"
+
+	[[params.contact.section]]
+		section = "Prize Distribution"
+
+		[[params.contact.section.item]]
+			name = "Ajay Meena"
+			phno = "+91 99920 66748"
+
+		[[params.contact.section.item]]
+			name = "Ayushi"
+			phno = "+91 97110 97535"
 
    # name_placeholder = "Your name"
   # email_placeholder = "Your email"

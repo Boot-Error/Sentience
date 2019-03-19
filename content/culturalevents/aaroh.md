@@ -28,6 +28,7 @@ Singers are not people who sing, rather, they are entrepreneurs of their own sty
 -	Time limit is inclusive of sound check. Time will be started after the first call of the participant(s).
 -   Participants must strictly follow the time limit. Otherwise, teams will be penalised for not doing so.
 -	Participants must report to the registration desk, at least 1 hour prior to the schedule of the event.
+-	RAP is not allowed.
 -   Obscenity of any kind or foul language will not be tolerated and can lead to immediate disqualification (at the discretion of judges).
 
 ## Terms and Conditions

@@ -1,5 +1,5 @@
 +++
-title = "Runaway"
+title = "Runway"
 description = "Fashion is art and you, the canvas. From hair to makeup to dressing to confidence; everything matters once you're up on that stage."
 author = ""
 tags = []
