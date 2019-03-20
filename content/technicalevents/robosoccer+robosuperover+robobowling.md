@@ -46,13 +46,12 @@ Rectangular field containing 10 pins (Dementors) ,a bot (you) and a ball(the spe
 ### CONSTRAINTS ON ROBOT:
 1. Height: approximately one fourth of the height of a pin.
 2. Width: approx. twice the diameter of a pin.
-3. Weight:
-4. Length:
-5. Power supply:
+3. Weight: 1.5kg - 2kg
+4. Length: 30 cms max
+5. Power supply: AC power source
 
 ### CONSTRAINTS ON TEAM:
 1. Atmost 2 members per team.
-2. Participation fee:
 
 The top scorers of game 1 will be qualified for next game. The exact
 count will depend on number of participants.
@@ -88,12 +87,12 @@ to win the tournament. Also, defend your own loop. Remember, NO MAGIC 
 9. The penalty shoot out must be taken from the position marked on arena. Only 10 seconds will be given to take shoot.
 
 ### CONSTRAINTS ON ROBOT
-- Robot Dimensions: 30cms * 30cms * 25cms
-- Robot Weight: 1.5kg
+- Robot Dimensions: 30cms * 20cms * 150cms
+- Robot Weight: 2kg
+- Power Supply: AC power source
 
 ### CONSTRAINTS ON TEAM
 1. Team size: 2-3
-2. Participation fee:
 
 ## Chamber of Secrets:
 
@@ -133,10 +132,13 @@ wide or no balls etc), it shall be eliminated and batsman wins.
 - The team with maximum score wins !!!
 
 ### Constraints on robots
+
+- Height: not more than 1.5 times of a tennis ball. (approx 10 cm)
+- Length: not more than 30 cm
+- Width: not more than 20 cm.
+- Weight : 1.5 – 2 kg.
 - Type: Manual (Wired and Wireless)
-- Power Supply :
-- Design : the front of the batsman bot should be a flat wooden/metallic sheet with no mechanism to hold the ball. The bowler bot however can have such a directing mechanism provided it is removable and re-attachable. (As shown in Arena Design)
+- Power Supply : AC power source.
 
 ### Constraints on teams
 - Number of Members: 2-3
-- Approximate Participation fees:

@@ -1,6 +1,6 @@
 +++
 title = "Upside Down"
-description = "Upside down is full or dangers and surprises, you never know what comes up next"
+description = "Upside down is full of dangers and surprises, you never know what comes up next"
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -12,7 +12,7 @@ profileLink="<WITHOUT HTTP:// PART>"
 +++
 
 Mike, Dustin, Lucas, Nancy, Jonathan and other friends are trapped in The Upside Down. You
-are Eleven. the only one powerful enough to rescue them. Bring them back home but only one at
+are Eleven. The only one powerful enough to rescue them. Bring them back home but only one at
 a time. Avoid demogorgans, take your friends safely to the portal back home.
 All the characters trapped are represented by different coloured balls. Every character has its
 own importance and so does the ball. The balls are classified in 3 colours each having different
@@ -23,13 +23,15 @@ BLUE- 12 balls
 
 In order to get your friends back home, the robot must push the balls into the basket,
 representing portals. However, there are demogorgans in your way, the obstacles. You must
-avoid them. At a time 2 robots will play, all trying to collect 1 ball at a time and reach the portal.
-The robot able to score maximum points at end of game will be declared the winnere
+avoid them. At a time 2 robots will play, both trying to collect 1 ball at a time and reach the portal.
+The robot able to score maximum points at end of game will be declared the winner. If yoi are lucky you might
+get some surprise in the obstacles and the Arena, sounds interesting right?
 
 ## Event Criteria
 - Team size: 2-3
 - Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
 - Robot Weight: 1.5kg
+- 2 bots will take part simultaneously
 
 
 ## Arena

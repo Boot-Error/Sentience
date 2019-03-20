@@ -41,40 +41,23 @@ Yellow circles are real components. Black are fake components.
 
 ## Rules and Scoring
 
-The event is automated. The size of rooms and the grid will be provided 2 weeks prior to competition. The
-participants must program their robot in general to plan their path across the grid accordingly.
-The participants will be given a set of 10 riddles. They must solve it and then input the answer to these
-riddles to the program, so it can then use the algorithm to plan the path.
-
-Therefore, the contestants must program the robot in general and give the input on site.
+The size of rooms and the grid will be provided to the registered participants 1
+week prior to competition. The participants will be given a set of 10 riddles on
+the day of the competition. They must solve these riddles and then plan the
+path to collect as many real components as possible while avoiding the fake ones
+(within an allotted time interval).
 
 1. For each real component, you will get +3 points. And for each wrong component, you will get -1 points.
 2. The goal is to collect as many components as you can as soon as possible. Components collected, the time spent and the path travelled shall be evaluated for all those who go inside the castle.
 3. The robot can move only to adjacent cells and not diagonally.
-4. If a robot crosses 1/3 rd of the room ,it must collect the component.
+4. If a robot crosses 1/3rd of the room ,it must collect the component.
 5. The robot must leave the grid, after collecting coins from the exit point.
 6. Time shall be noted from starting point to exit point.
 
-Time, the shortest path taken by the robot and the maximum collection of components will be taken under
-consideration. **Time allotted is 4 minutes at most.**
-
-1. Real component: +3 points.
-2. Fake component: -1 points
-3. If someone completes the event before time, here is how points shall be given:
-
-|                   |                          |
-|-------------------|--------------------------|
-| 15 seconds before | +1 point  shall be given |
-| 30 seconds before | +2 points shall be given |
-| 45 seconds before | +3 points shall be given |
-| 60 seconds before | +4 points shall be given |
-
-And so on.......
-
-These points of completing before time shall be added to the net score of the participant. The one with the
-most score wins.
+NOTE: If the robot crosses 1/3rd of a room, it will be assumed that
+it has picked the component of that particular room. So, no need of
+a mechanical arm or any picking mechanism.
 
 ## Constraint on Robot
-- Automated
-- Bluetooth Initialised
-- Input/Output Format and size of arena will be conveyed 3 weeks prior via website and email to participants
+- Remote Controlled
+- Wired/Wireless
