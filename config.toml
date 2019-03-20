@@ -221,8 +221,8 @@ title = "Sentience"
 
 		[[params.timeline.day.event]]
 			starttime = "12:00 pm"
-			eventname = "Fight Club"
-			link = "/technicalevents/fightclub2.0"
+			eventname = "End Game"
+			link = "/technicalevents/endgame"
 
 		[[params.timeline.day.event]]
 			starttime = "01:00 pm"
@@ -317,8 +317,8 @@ title = "Sentience"
 
 		[[params.timeline.day.event]]
 			starttime = "11:00 am"
-			eventname = "End Game"
-			link = "/technicalevents/endgame"
+			eventname = "Fight Club"
+			link = "/technicalevents/fightclub2.0"
 
 		[[params.timeline.day.event]]
 			starttime = "11:30 am"
