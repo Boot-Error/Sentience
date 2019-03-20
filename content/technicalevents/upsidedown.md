@@ -24,13 +24,13 @@ BLUE- 12 balls
 In order to get your friends back home, the robot must push the balls into the basket,
 representing portals. However, there are demogorgans in your way, the obstacles. You must
 avoid them. At a time 2 robots will play, both trying to collect 1 ball at a time and reach the portal.
-The robot able to score maximum points at end of game will be declared the winner. If yoi are lucky you might
+The robot able to score maximum points at end of game will be declared the winner. If you are lucky you might
 get some surprise in the obstacles and the Arena, sounds interesting right?
 
 ## Event Criteria
 - Team size: 2-3
-- Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
-- Robot Weight: 1.5kg
+- Robot Dimensions(max): 30cms * 30cms * 25cms (length * breadth * height)
+- Robot Weight: 1.5kg max
 - 2 bots will take part simultaneously
 
 
