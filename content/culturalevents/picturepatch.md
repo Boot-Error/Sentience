@@ -25,6 +25,7 @@ Here is an event where you can showcase your editing skills along with your
 photography skills. Combine upto 3 photos into a single composition to showcase
 your Talent and send a message to the audience.
 
+
 ## Rules
 
 1. Photos that are used in the submission should be original.
@@ -42,5 +43,9 @@ your Talent and send a message to the audience.
 	- Copy of the Original Photos.
 	- Editing Software Used.
 	- Message that the submission portrays.
+
+<p align="center">
+	<img style="width: 50%" alt="upside down arena" src="/images/picture_patch_example.jpeg"></img>
+</p>
 
 <p align="center">In order to participate, please first register on the College Fever website by clicking the register button below.</p>
