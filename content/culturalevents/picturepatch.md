@@ -45,7 +45,7 @@ your Talent and send a message to the audience.
 	- Message that the submission portrays.
 
 <p align="center">
-	<img style="width: 50%" alt="upside down arena" src="/images/picture_patch_example.jpeg"></img>
+	<img style="width: 100%" alt="upside down arena" src="/images/picture_patch_example.jpeg" alt="Example Image">Example Image</img>
 </p>
 
 <p align="center">In order to participate, please first register on the College Fever website by clicking the register button below.</p>
