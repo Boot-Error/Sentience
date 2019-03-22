@@ -1,0 +1,19 @@
+<div id="fh5co-team" data-section="details">
+  <div class="container equal">
+    {{ with .Site.Params.details }}
+    <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+      <h2>{{ .title }}</h2>
+      <p>{{ .description | markdownify }}</p>
+    </div>
+    {{ end }}
+    {{ range where .Site.RegularPages "Section" "eq" "details" }}
+    <div class="col-md-4">
+      <div class="detail-card">
+		<h3>{{ .Title }}</h3>
+		<p>{{ .Description | markdownify }}</p>
+		<a href="{{ .Permalink }}">Learn More</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div> <!-- END fh5co-team -->

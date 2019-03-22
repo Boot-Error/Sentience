@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 #theme = "hugo-icon"
-baseURL = "https://sentience19.firebaseapp.com/"
+baseURL = "https://sentiencenitd.in/"
 languageCode = "en-US"
 title = "Sentience"
 
@@ -20,9 +20,10 @@ title = "Sentience"
   events = "Events"
   talks = "Talks"
   team = "Team"
-  workshops = "Workshops"
+  timeline = "Timeline"
   sponsors = "Sponsors"
   contact = "Contact"
+  details = "Details"
   # Include logo instead if HOME:
   logo = "images/sentience_black.png"
 #About section
@@ -35,10 +36,26 @@ title = "Sentience"
   [params.about.image2]
       img = "images/home-min.jpg"
 
+[params.sponsors]
+	enable = true
+	carousel = false
+	title = "Sponsors"
+	
+	first = "Aptron.jpg"
+
+	[[params.sponsors.sp]]
+		img = "Aptron.jpg"
+	[[params.sponsors.sp]]
+		img = "Bugsee.png"
+	[[params.sponsors.sp]]
+		img = "codeblocks.png"
+	[[params.sponsors.sp]]
+		img = "Groovenexus logo 220x70.png"
+
 
 # Mission section
 [params.mission]
-  enable = true
+  enable = false
 
   [params.mission.images]
     enable = true
@@ -139,11 +156,14 @@ title = "Sentience"
 			description = ""
 			coverImage = "images/Fashion.jpg"
 
-
+[params.details]
+  enable = true
+  title = "Details"
+  description = "Additional Information regarding the fest"
 
 # Work section
 [params.work]
-  enable = false
+  enable = true 
 
   [[params.work.item]]
     title = "Consectetur adipisicing"
@@ -184,6 +204,171 @@ title = "Sentience"
     title = "Consectetur adipisicing"
     subtitle = "Web Design"
     img = "images/img_4.jpg"
+
+[params.timeline]
+	enable = true
+	title = "Timeline"
+
+	[[params.timeline.day]]
+		date = "Thursday 4th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "04:00 pm"
+			eventname = "Opening Ceremony"
+
+		[[params.timeline.day.event]]
+			starttime = "05:00 pm"
+			eventname = "Spotlight"
+			link = "/culturalevents/spotlight"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "Sukhmanch"
+
+	[[params.timeline.day]]
+		date = "Friday 5th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "NITDPL"
+			link = "/technicalevents/nitdpl"
+
+		[[params.timeline.day.event]]
+			starttime = "10:30 am"
+			eventname = "Goonj"
+			link = "/culturalevents/goonj"
+
+		[[params.timeline.day.event]]
+			starttime = "12:00 pm"
+			eventname = "End Game"
+			link = "/technicalevents/endgame"
+
+		[[params.timeline.day.event]]
+			starttime = "01:00 pm"
+			eventname = "Acapella"
+			link = "/culturalevents/acapella"
+
+		[[params.timeline.day.event]]
+			starttime = "01:30 pm"
+			eventname = "Kalachitra"
+			link = "/culturalevents/kalachitra"
+
+		[[params.timeline.day.event]]
+			starttime = "03:00 pm"
+			eventname = "Crack The Track"
+			link = "/technicalevents/roborace"
+
+		[[params.timeline.day.event]]
+			starttime = "04:00 pm"
+			eventname = "Mono Acting"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "04:30 pm"
+			eventname = "Code Golf"
+			link = "/technicalevents/codegolf"
+
+		[[params.timeline.day.event]]
+			starttime = "05:30 pm"
+			eventname = "Color Splash"
+			link = "/culturalevents/colorsplash"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "Kavi Samelan"
+			link = ""
+
+	[[params.timeline.day]]
+		date = "Saturday 6th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "Capture the flag"
+			link = "/technicalevents/rootctf"
+
+		[[params.timeline.day.event]]
+			starttime = "10:30 am"
+			eventname = "Lost Treasure"
+			link = "/technicalevents/thelosttreasure"
+
+		[[params.timeline.day.event]]
+			starttime = "11:00 am"
+			eventname = "Wordwar"
+			link = "/culturalevents/wordwar"
+
+		[[params.timeline.day.event]]
+			starttime = "12:00 pm"
+			eventname = "Upside Down"
+			link = "/technicalevents/upsidedown"
+
+		[[params.timeline.day.event]]
+			starttime = "01:00 pm"
+			eventname = "Solo Singing"
+			link = ""
+
+		[[params.timeline.day.event]]
+			starttime = "02:00 pm"
+			eventname = "The Quipster"
+			link = "/culturalevents/thequipster"
+
+		[[params.timeline.day.event]]
+			starttime = "03:30 pm"
+			eventname = "Triwizardry"
+			link = "technicalevents/robosoccer+robosuperover+robobowling/"
+
+		[[params.timeline.day.event]]
+			starttime = "05:00 pm"
+			eventname = "Breakfree"
+			link = "/culturalevents/breakfree"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "EDM Night"
+			link = ""
+
+	[[params.timeline.day]]
+		date = "Sunday 7th April, 2019"
+
+		[[params.timeline.day.event]]
+			starttime = "10:00 am"
+			eventname = "Clash of Codes"
+			link = "/technicalevents/clashofcodes"
+
+		[[params.timeline.day.event]]
+			starttime = "11:00 am"
+			eventname = "Fight Club"
+			link = "/technicalevents/fightclub2.0"
+
+		[[params.timeline.day.event]]
+			starttime = "11:30 am"
+			eventname = "Battle of Bands"
+			link = "/culturalevents/battleofbands"
+
+		[[params.timeline.day.event]]
+			starttime = "01:30 pm"
+			eventname = "ODEssey: Poetry Slam"
+			link = "/culturalevents/odessey"
+
+		[[params.timeline.day.event]]
+			starttime = "03:00 pm"
+			eventname = "Reverse Coding"
+			link = "/technicalevents/reversecoding"
+
+		[[params.timeline.day.event]]
+			starttime = "03:30 pm"
+			eventname = "RubG"
+			link = "/technicalevents/rubg"
+
+		[[params.timeline.day.event]]
+			starttime = "06:00 pm"
+			eventname = "Theme Walk"
+			link = "/culturalevents/runaway"
+
+		[[params.timeline.day.event]]
+			starttime = "07:30 pm"
+			eventname = "Coke Studio"
+			link = ""
+
 
 # Team section
 [params.team]
@@ -239,8 +424,8 @@ title = "Sentience"
 # Contact section
 [params.contact]
   enable = true
-  title = "Get In Touch"
-  message = "For sponsorship and event details, contact"
+  title = "The Sentience19 Team"
+  message = "The backbones of Sentience 19"
 
 	[[params.contact.section]]
 		section = "Core Committee"
@@ -270,7 +455,7 @@ title = "Sentience"
 
 		[[params.contact.section.item]]
 			name = "Prathu Singh"
-			phno = "+91 98786 07155"
+			phno = "+91 82218 07751"
 			position = "Event Management"
 
 		[[params.contact.section.item]]
@@ -286,6 +471,67 @@ title = "Sentience"
 			phno = "+91 99684 30077"
 			position = "Sponsorship"
 
+		[[params.contact.section.item]]
+			name = "Sangeeta"
+			phno = "+91 94902 19662"
+			position = "Sponsorship"
+
+	[[params.contact.section]]
+		section = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Kritika"
+			phno = "+91 85274 97717"
+			position = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Suruchi"
+			phno = "+91 88260 31570"
+			position = "Marketing"
+
+		[[params.contact.section.item]]
+			name = "Shakya"
+			phno = "+91 99997 67902"
+			position = "Marketing"
+
+	[[params.contact.section]]
+		section = "Hospitality"
+
+		[[params.contact.section.item]]
+			name = "Pooja Singh"
+			phno = "+91 95994 65488"
+			position = "Hospitality"
+
+		[[params.contact.section.item]]
+			name = "Pooja Kumari"
+			phno = "+91 85859 64798"
+			position = "Hospitality"
+
+	[[params.contact.section]]
+		section = "Infrastructure & logistics"
+
+		[[params.contact.section.item]]
+			name = "Sudhir"
+			phno = "+91 70233 84546"
+
+		[[params.contact.section.item]]
+			name = "Gurpreet"
+			phno = "+91 85718 32001"
+
+		[[params.contact.section.item]]
+			name = "Aynjaney"
+			phno = "+91 94702 87502"
+
+	[[params.contact.section]]
+		section = "Prize Distribution"
+
+		[[params.contact.section.item]]
+			name = "Ajay Meena"
+			phno = "+91 99920 66748"
+
+		[[params.contact.section.item]]
+			name = "Ayushi"
+			phno = "+91 97110 97535"
 
    # name_placeholder = "Your name"
   # email_placeholder = "Your email"
@@ -298,6 +544,6 @@ title = "Sentience"
 [params.footer]
   enable = true
   note = "<p><small>&copy; 2019 Sentience NIT Delhi. All Rights Reserved.</small></p>"
-  facebook = "#"
-  instagram = "#"
+  facebook = "https://www.facebook.com/SentienceNITDelhi"
+  instagram = "https://www.instagram.com/sentiencenitdelhi"
   

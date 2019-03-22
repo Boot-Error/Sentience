@@ -1,6 +1,6 @@
 +++
 title = "Acapella"
-description = "I regard myself as a beautiful musical instrument, and my role is to contribute that instrument to scripts worthy of it. The human voice is the first and most natural musical instrument, also the most emotional. May it be the keyboard or the guitar, beat boxing or Konnakol, violin or harmonium, this event lets you be the singer and the instrument. Get your team ready and impress us with your stellar vocal percussion."
+description = "I regard myself as a beautiful musical instrument, and my role is to contribute that instrument to scripts worthy of it."
 author = ""
 tags = []
 date = 2019-03-01T21:51:44+05:30
@@ -13,21 +13,24 @@ profileLink="<WITHOUT HTTP:// PART>"
 
 "I regard myself as a beautiful musical instrument, and my role is to contribute that instrument to scripts worthy of it." The human voice is the first and most natural musical instrument, also the most emotional. May it be the keyboard or the guitar, beat boxing or Konnakol, violin or harmonium, this event lets you be the singer and the instrument. Get your team ready and impress us with your stellar vocal percussion.
 
-**Team Size:** 5-15
+## Event Criteria
 
-**Time limit:** 6-8 min\
-**Judging Criteria:** Vocals quality, Rhythm, Harmonies,
-Synchronization, Overall presence
+- **Team Size:** 5-15
+- **Time limit:** 8 min
+- **Judging Criteria:** Vocal tones, Techniques and Skills, Harmonies, Synchronization, Overall impact.
 
-## General Rules:
+## General Rules
 
 -   Teams must have at least one vocalist.
 -   No instruments or recorded music is allowed on stage.
+-	Each team will be provided with 6 microphones, which may be utilized as their desire.	
 -   The songs should have Hindi/English lyrics, however a refrain on a foreign language is allowed.
+-	Time limit is inclusive of sound check. Time will be started after the first call of the participants.
 -   Participants must strictly follow the time limit. Otherwise, teams will be penalised for not doing so.
+-	Participants must report to the registration desk, at least 1 hour prior to the schedule of the event.
 -   Obscenity of any kind or foul language will not be tolerated and can lead to immediate disqualification (at the discretion of judges).
 
-## Terms and Conditions:
+## Terms and Conditions
 
 -   All participants must have a valid college ID card.
 -   The decision of the judges will be final and binding in case of any discrepancy.

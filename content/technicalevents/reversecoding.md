@@ -1,6 +1,6 @@
 +++
-title = "Reversecoding"
-description = "Think you know everything about programming? Well there are many ways to go, let's see which one you pick. This event looks for the real star that stands up to the ability of creativity and logic. So, be ready to storm out not just by switching systems but switching your brains into the all new arena."
+title = "Reverse Coding"
+description = "Think you know everything about programming? Well there are many ways to go, let's see which one you pick."
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -18,6 +18,8 @@ programming competition and reverse coding is that you will not be given
 the exact question statement but you will be provided with some set of
 sample inputs and outputs which will be sufficient enough to guess the
 problem and then you have to submit a code for your guessed problem.
+
+## Event Criteria
 
 **Team size:** 1-3
 

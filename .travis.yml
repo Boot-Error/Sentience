@@ -1,0 +1,13 @@
+install:
+    - rm -rvf public/* || exit 0
+
+script:
+    - ./bin/hugo
+
+deploy:
+    provider: firebase
+    token: $FIREBASE_TOKEN  
+    skip_cleanup: true
+    project: "sentience19"
+    on:
+        branch: master

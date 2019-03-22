@@ -1,6 +1,6 @@
 +++
 title = "RootCTF"
-description = "CTF is an event which provides a platform for participants to work out on real world scenarios like malware analysis ¸pentesting, system administration. The game is played in team of four players where each team is provided with a real world scenario along with a system where they need to seek out a solution which promotes next level. Each level is associated with different kind of scenario of increasing difficulty. This allows the participants to apply various concepts and techniques to reach a solution. The game is entirely based on Command line interface. The team is given secured access to a system to analyse, execute instructions to find the flag. The games assume players to have knowledge in computer engineering such as files, networking, various tools of system administration."
+description = "So you think you can hack?"
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -11,16 +11,16 @@ authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
 
-CTF is an event which provides a platform for participants to work out on real world scenarios like malware analysis ¸pentesting, system administration. The game is played in team of four players where each team is provided with a real world scenario along with a system where they need to seek out a solution which promotes next level. Each level is associated with different kind of scenario of increasing difficulty. This allows the participants to apply various concepts and techniques to reach a solution. The game is entirely based on Command line interface. The team is given secured access to a system to analyse, execute instructions to find the flag. The games assume players to have knowledge in computer engineering such as files, networking, various tools of system administration.
+root@CTF is an event which provides a platform for participants to get the taste of how cyber security analysis is done. We are organising a Jeopardy style event, in which there are a set of challenges for the participants to test their cybersec skills. The game is played in team of upto 4 players where each team has to solve a set of challenges which range from forensics to cryptography to reverse engineering to exploit development and more. This allows the participants from different domains of interests to apply various concepts and techniques to reach a solution and get the flag;) The challenges assume that participants know basics of computer science such as networking, OS, and have some common sense :wink_face:
 
-**Team size:** 1-3
+## Event Criteria
 
-**Time Duration:** 3hrs
+- **Team size:** 1-3
+- **Time Duration:** 3hrs
 
-## Rules:
+## Rules
 
--   Your team will be required to solve network security related problems.
--   The winner will be declared on the basis of number of questions solved. If number of questions solved is same, the winner will be the team who solves the problems in least amount of time.
--   Team will have no access to cell phones.
--   Taking help of any kind will result in immediate disqualification.
+- Players need to bring their own laptops at least one per team.
+- Sharing of flags and collaborating with other teams constitutes cheating.
+- Attacking the CTF infrastructure is strictly forbidden
 

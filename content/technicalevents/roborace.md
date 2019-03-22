@@ -1,6 +1,6 @@
 +++
-title = "Robo Race"
-description = ""
+title = "Crack the Track: Robo Race"
+description = "Love controlling a race, chewing up opponents, let's get down and dirty, let's fight it out"
 author = ""
 tags = []
 date = 2019-03-01T19:31:30+05:30
@@ -11,19 +11,31 @@ authorAvatar= "author/<YOUR AVATAR>"
 profileLink="<WITHOUT HTTP:// PART>"
 +++
 
+Love controlling a race ,chewing up opponents,
+let&#39;s get down and dirty.let&#39;s fight it out,
+it&#39;s raw and animalistic with no one to rely on but yourself.
+Let your brain unspool the tangles that build up.
+Run ,pound it out on pavement, channel that energy
+and show the world the strength of your adrenaline rush.
+
+Race that fast......time becomes slower....
+
+Get to the blocks, run your race, stay relaxed, if you run your race, you will win.
+
+## Event Criteria
+
+- Team size: 2-3
+- Robot Dimensions: 26cms * 26cms * 30cms (length x breadth x height)
+- Robot Weight: 1.5kg
 
 
-**Team size:** 1-2
-
-## Rule
-
--   Your team will be required to write programs to solve the given problems, which will then have to be submitted to an online judge.
--   Shorter the code, Higher will be the score.
--   Your programs can be written in any language.
--   There will be a runtime limit for each problem. Your solution should pass all the hidden test data within that time limit to receive the accepted verdict.
--   The winner will be declared on the basis of total score.
--   There will be a time penalty for each wrong submission to the online judge, but not for compilation error.
--   Team will have no access to cell phones.
--   Taking help of any kind will result in immediate disqualification.
-
-
+## Rules
+1. One bot will race at a time.
+2. Bot has to pass through each checkpoint to reach the finish line.
+3. In any case if bot fall from the arena, it has to start from the pervious checkpoint.
+4. If any team touch arena, everytime +10 sec will be added to time it take to complete the race.
+5. In case of wired bot, if wire is found tightened +10 sec will be added to the time.
+6. If a team damage the arena anyhow, that team will be disqualified immediately.
+7. Teams failed to complete any task can skip atmost 2 parts with penalty of +50 secs.
+8. Inside the maze, each puck results in -2 secs.
+9. After completion of event team which took less time to complete the race wins.

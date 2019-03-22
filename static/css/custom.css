@@ -13,6 +13,12 @@
 	display: block !important;
 	
 }
+@media only screen and (max-width:10in){
+	.titleimage{
+		width: 100vw !important;
+	}	
+}
+
 
 	/* EVENTS */
 .events-cont{
@@ -61,3 +67,36 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.gmap-box {
+	width: 50vw;
+}
+
+div#sponsors_slideshow {
+	
+	max-width: 300px !important;
+	max-height: 240px !important;
+	width: 240px !important;
+	/* box-shadow: 0px 0px 37px 1px rgba(230,230,230,1); */
+	background-color: rgba(230,230,230,0.40);
+}
+
+img#sponsor-logo {
+	width: inherit;
+	height: inherit;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+img.sponsor-item {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+/* div.details-card-container { */
+/* 	display: flex; */
+/* } */
+/*  */
+/* div.detail-card { */
+/* 	width: 100px; */
+/* } */

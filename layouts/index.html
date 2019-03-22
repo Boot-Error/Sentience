@@ -18,17 +18,20 @@
 	
 	{{ partial "nav.html" . }}
 
-	{{ if .Site.Params.mission.enable }}
+	{{ if .Site.Params.services.enable }}
 	{{ partial "about.html" . }}
 	{{ end }}
 
-	{{ if .Site.Params.mission.enable }}
+	{{ if .Site.Params.services.enable }}
 	{{ partial "events.html" . }}
 	{{ end }}
 	
+	{{ if .Site.Params.timeline.enable }}
+	{{ partial "timeline.html" . }}
+	{{ end }}
 	
-	{{ if .Site.Params.work.enable }}
-	{{ partial "gallery.html" .}}
+	{{ if .Site.Params.details.enable }}
+	{{ partial "details.html" . }}
 	{{ end }}
 	
 	{{ if .Site.Params.team.enable }}
@@ -39,6 +42,10 @@
 	{{ partial "contact-form.html" .}}
 	{{ end }}
 	
+	{{ if .Site.Params.sponsors.enable }}
+	{{ partial "sponsors.html" .}}
+	{{ end }}
+
 	{{ if .Site.Params.footer.enable }}
 	{{ partial "footer.html" .}}
 	{{ end }}

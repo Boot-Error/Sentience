@@ -25,9 +25,17 @@ programs to solve them (in C, C++ or Java), which will be judged by an
 online judge. The team which solves the maximum number of questions in
 least time will be declared as the winner.
 
-**Team Size:** 1-3
+## :warning: Qualifier Round
 
-## General Rules:
+NITD Programming League Qualifier round is on!
+
+<button onClick="window.location.href='https://www.hackerearth.com/challenges/college/nitdplql19/'">Take me in!</button>
+
+## Event Criteria
+
+- **Team Size:** 1-3
+
+## General Rules
 
 -   Your team will be required to write programs to solve the given problems, which will then have to be submitted to an online judge.
 -   Your programs can be written in any language.
