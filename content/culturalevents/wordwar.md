@@ -32,7 +32,7 @@ Ever felt confident that your oration skills are so refined that you can convinc
 
 ## Terms and conditions
 
--   Dress code are Formals (Indian/Western).
+-   Dress code is Formals (Indian/Western).
 -   Moderator's decision will be considered final.
 -   No abusive language or personal comments would be entertained.
 -   NIT Delhi hold right of disqualifying any team in case if the team has not compiled with the rules properly or acted in unruly or disruptive manners.

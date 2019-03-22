@@ -14,7 +14,7 @@ profileLink="<WITHOUT HTTP:// PART>"
 You are the Captain Jack Sparrow, sailing across Caribbean Sea. You have
 finally found the island with *'The lost treasure'*. But you are not alone!! Your
 archenemy-Blackbeard has also reached the island following you. The island is
-cursed and the treasure will turn to dust after 5 min of you landing on island.
+cursed and the treasure will turn to dust after 7 min of you landing on island.
 Collect the treasure, steal Blackbeard treasure and defend your treasure. Let’s see
 which pirate becomes ‘KING OF THE SEVEN SEAS’.
 
@@ -57,7 +57,7 @@ will be declared as ‘KING OF SEVEN SEAS’
 + Opponent can’t enter your boat and vice-versa is also applicable.
 + If you accidently paddle out treasure from your boat, then that treasure will be considered out of your boat and you will not get any scores for that.
 + Hope diamond has no points.
-+ Along with this there is Hope diamond which carries no point but in case of a tie, the Hope diamond will serve as tie breaker. The pirate with Hope diamond will be considered winner. In case, if hope diamond is not with any of the pirates and the scores are equal, then the priority order for the consideration of winner will be: 
++ But in case of a tie, the Hope diamond will serve as tie breaker. The pirate with Hope diamond will be considered winner. In case, if hope diamond is not with any of the pirates and the scores are equal, then the priority order for the consideration of winner will be: 
 
 	1. Pirate with KOHINOOR 
 	2. Pirate with more gold coins.
@@ -66,13 +66,21 @@ will be declared as ‘KING OF SEVEN SEAS’
 
 
 ## How to score points
-
-+ Collecting silver points will give you 10 points.
-+ Collecting gold coins will give you 20 points. (But you can start collecting them only after you have crossed the Silver stage)
-+ After passing Silver stage and Gold stage, you can go for the hunt of Kohinoor diamond (blue colored diamond). To capture Kohinoor diamond, there are certain rules-
-+ As soon as you put Kohinoor diamond in your boat, a hope time starts. You need to stay still for first 5 seconds of Hopetime i.e., You cannot put any other coin for first 5 seconds in your boat after you put Kohinoor diamond in your boat, however you can defend your boat from the opponent in the meantime. Then from 6 th second to 15 th second you have to put a gold coin inside your boat, then only the Kohinoor diamond will be considered as captured by you. In any other case, the Kohinoor diamond will return back to its initial position in island.
-+ Once Kohinoor is successfully inside your boat, the only way Kohinoor can come out is by using paddle.
-+ You can also score points by paddling out coins of the opponent. You will be given points only if the coin(s) you paddled out is a gold coin or KOHINOOR 10 points will be rewarded on doing so. In case of Kohinoor, 20 points will be given. Silver coin and Hope diamond carries no point.
+
+| Coin                           | Points |
+|--------------------------------|--------|
+| Gold                           | 20     |
+| Silver                         | 10     |
+| Kohinoor                       | 50     |
+| Paddling Gold coin out of boat | 10     |
+| Paddling Kohinoor out of boat  | 20     |
+
+-	Collecting silver points will give you 10 points.
+-	Collecting gold coins will give you 20 points. (But you can start collecting them only after you have crossed the Silver stage)
+-	After passing Silver stage and Gold stage, you can go for the hunt of Kohinoor diamond (blue colored diamond). To capture Kohinoor diamond, there are certain rules-
+-	As soon as you put Kohinoor diamond in your boat, a hope time starts. You need to stay still for first 5 seconds of Hopetime i.e., You cannot put any other coin for first 5 seconds in your boat after you put Kohinoor diamond in your boat, however you can defend your boat from the opponent in the meantime. Then from 6 th second to 15 th second you have to put a gold coin inside your boat, then only the Kohinoor diamond will be considered as captured by you. In any other case, the Kohinoor diamond will return back to its initial position in island.
+-	Once Kohinoor is successfully inside your boat, the only way Kohinoor can come out is by using paddle.
+-	You will be given points only if the coin(s) you paddled out is a gold coin or KOHINOOR. 10 points wiwll be rewarded for removing Gold coin and 20 points will be rewarded for removing KOHINOOR. No points will be give for removing Silver Coin and HOPE DIAMOND.
 
 ## Fouls
 
@@ -88,14 +96,6 @@ below:
 
 **Note: Any of the above mentioned situations (if fulfilled) will result in the
 loss of 5 points of the concerned pirate.**
-
-| Coin                           | Points |
-|--------------------------------|--------|
-| Gold                           | 20     |
-| Silver                         | 10     |
-| Kohinoor                       | 50     |
-| Paddling Gold coin out of boat | 10     |
-| Paddling Kohinoor out of boat  | 20     |
 
 ## Guidelines
 + Each match will be one on one match, that is knock out match.

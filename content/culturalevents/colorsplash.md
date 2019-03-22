@@ -15,7 +15,7 @@ profileLink="<WITHOUT HTTP:// PART>"
 
 ## Event Criteria
 
-- **Team Size:** solo
+- **Team Size:** 2-3
 - **Time limit:** 45 min
 
 ## General Rules

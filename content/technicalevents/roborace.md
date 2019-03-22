@@ -1,5 +1,5 @@
 +++
-title = "Robo Race"
+title = "Crack the Track: Robo Race"
 description = "Love controlling a race, chewing up opponents, let's get down and dirty, let's fight it out"
 author = ""
 tags = []
@@ -25,7 +25,7 @@ Get to the blocks, run your race, stay relaxed, if you run your race, you will w
 ## Event Criteria
 
 - Team size: 2-3
-- Robot Dimensions: 30cms * 30cms * 25cms
+- Robot Dimensions: 26cms * 26cms * 30cms (length x breadth x height)
 - Robot Weight: 1.5kg
 
 
@@ -35,7 +35,7 @@ Get to the blocks, run your race, stay relaxed, if you run your race, you will w
 3. In any case if bot fall from the arena, it has to start from the pervious checkpoint.
 4. If any team touch arena, everytime +10 sec will be added to time it take to complete the race.
 5. In case of wired bot, if wire is found tightened +10 sec will be added to the time.
-6. If a team damage the arena anyhow, that team will be disqualified immidiately.
+6. If a team damage the arena anyhow, that team will be disqualified immediately.
 7. Teams failed to complete any task can skip atmost 2 parts with penalty of +50 secs.
 8. Inside the maze, each puck results in -2 secs.
 9. After completion of event team which took less time to complete the race wins.

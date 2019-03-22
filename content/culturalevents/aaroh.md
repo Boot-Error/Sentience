@@ -15,17 +15,20 @@ Singers are not people who sing, rather, they are entrepreneurs of their own sty
 
 ## Event Criteria
 
-**Team size:** 1-2
-**Time limit:** 4-5 min
-**Judging criteria:** Vocals quality, Mood and Expression, Sense of
-beat, Overall impact
+- **Team size:** 1-2
+- **Time limit:** 6 mins
+- **Judging criteria:** Vocal tones, Techniques and Skills,Expression and Stage presence, Overall impact 
 
 ## General Rules
 
 -   Participants can perform with one instrumental accompaniment or with a backing track but the judging will be done solely on the basis of vocal performance.
+-	Participants are directed to bring their own instrument(s) if they require so.
 -   Participants must submit the backing tracks if any (in .mp3 format) prior to the event in a pen drive or hard disk.
 -   The songs should have Hindi/English lyrics, however a refrain on a foreign language is allowed.
+-	Time limit is inclusive of sound check. Time will be started after the first call of the participant(s).
 -   Participants must strictly follow the time limit. Otherwise, teams will be penalised for not doing so.
+-	Participants must report to the registration desk, at least 1 hour prior to the schedule of the event.
+-	RAP is not allowed.
 -   Obscenity of any kind or foul language will not be tolerated and can lead to immediate disqualification (at the discretion of judges).
 
 ## Terms and Conditions

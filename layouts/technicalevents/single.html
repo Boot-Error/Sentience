@@ -10,8 +10,14 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href={{ "assets-single/css/main.css" | absURL }} />
+
+		{{ partial "analytics.html" }}
+
 		<style type="text/css">
 			#TableOfContents > ul, #TableOfContents > ul > li > ul {
+				list-style: none;
+			}
+			#TableOfContents > ul > li > ul > li > ul {
 				list-style: none;
 			}
 			#register-btn {
@@ -48,6 +54,7 @@
 					<section id="contents" class="wrapper style2 fullscreen fade-up">
 						<div class="inner">
 							{{ .Content | emojify }}
+							<strong>For events with team participation, only one team member needs to register and all team members should be of same Institution.</strong>
 						</div>
 						<button onClick="window.location.href='https://www.thecollegefever.com/events/sentience-2019-the-techno-cultural-fest';" id="register-btn">Register Now!</button>
 					</section>
@@ -59,7 +66,7 @@
 					<ul class="menu">
 						<li>&copy; Sentience 19. All rights reserved.</li>
 						<li><a href="/">Home</a></li>
-						<li><a href="/culturalevents">Go Back</a></li>
+						<li><a href="/technicalevents">Other Events</a></li>
 					</ul>
 				</div>
 			</footer>

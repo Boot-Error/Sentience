@@ -16,16 +16,18 @@ profileLink="<WITHOUT HTTP:// PART>"
 ## Event Criteria
 
 - **Team Size:** 5-15
-- **Time limit:** 6-8 min\
-- **Judging Criteria:** Vocals quality, Rhythm, Harmonies,
-Synchronization, Overall presence
+- **Time limit:** 8 min
+- **Judging Criteria:** Vocal tones, Techniques and Skills, Harmonies, Synchronization, Overall impact.
 
 ## General Rules
 
 -   Teams must have at least one vocalist.
 -   No instruments or recorded music is allowed on stage.
+-	Each team will be provided with 6 microphones, which may be utilized as their desire.	
 -   The songs should have Hindi/English lyrics, however a refrain on a foreign language is allowed.
+-	Time limit is inclusive of sound check. Time will be started after the first call of the participants.
 -   Participants must strictly follow the time limit. Otherwise, teams will be penalised for not doing so.
+-	Participants must report to the registration desk, at least 1 hour prior to the schedule of the event.
 -   Obscenity of any kind or foul language will not be tolerated and can lead to immediate disqualification (at the discretion of judges).
 
 ## Terms and Conditions

@@ -164,14 +164,10 @@ compensated. However, the immunity can be used only once. The total number of we
 
 ## Constraints on robots
 
-+ Height:
-+ Length:
-+ Width:
-+ Weight :
 + Type: Manual (Wired and Wireless)
 + Length of Wire : radius of arena
-+ Power Supply :
++ Power Supply: 12V
++ No Weapon allowed
 
 ## Constraints on teams 
-+ Number of Members:
-+ Approximate Participation fees:
++ Number of Members: 1-3
