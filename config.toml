@@ -36,10 +36,26 @@ title = "Sentience"
   [params.about.image2]
       img = "images/home-min.jpg"
 
+[params.sponsors]
+	enable = true
+	
+	first = "Aptron.jpg"
+
+	[[params.sponsors.sp]]
+		img = "Bugsee.png"
+
+	[[params.sponsors.sp]]
+		img = "codeblocks.png"
+
+	[[params.sponsors.sp]]
+		img = "Groovenexus logo 220x70.png"
+
+	[[params.sponsors.sp]]
+		img = "loofre.png"
 
 # Mission section
 [params.mission]
-  enable = true
+  enable = false
 
   [params.mission.images]
     enable = true
@@ -140,11 +156,14 @@ title = "Sentience"
 			description = ""
 			coverImage = "images/Fashion.jpg"
 
-
+[params.details]
+  enable = true
+  title = "Details"
+  description = "Additional Information regarding the fest"
 
 # Work section
 [params.work]
-  enable = false
+  enable = true 
 
   [[params.work.item]]
     title = "Consectetur adipisicing"

@@ -18,11 +18,11 @@
 	
 	{{ partial "nav.html" . }}
 
-	{{ if .Site.Params.mission.enable }}
+	{{ if .Site.Params.services.enable }}
 	{{ partial "about.html" . }}
 	{{ end }}
 
-	{{ if .Site.Params.mission.enable }}
+	{{ if .Site.Params.services.enable }}
 	{{ partial "events.html" . }}
 	{{ end }}
 	
@@ -30,8 +30,8 @@
 	{{ partial "timeline.html" . }}
 	{{ end }}
 	
-	{{ if .Site.Params.work.enable }}
-	{{ partial "gallery.html" .}}
+	{{ if .Site.Params.details.enable }}
+	{{ partial "details.html" . }}
 	{{ end }}
 	
 	{{ if .Site.Params.team.enable }}

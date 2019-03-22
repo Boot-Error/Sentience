@@ -37,6 +37,25 @@
         4th Apr - 7th Apr
   	  </div>
   	  <div id="countdown-timer"></div>
+	  {{ with .Site.Params.sponsors }}
+	  <section class="sponsors">
+		  {{ if .enable }}
+			<div id="sponsors_slideshow" class="carousel slide" data-ride="carousel">
+				<div class="carousel-inner" role="listbox">
+					<div class="item active">
+						<img id="sponsor-logo" src="/images/sponsors_logos/{{ .first }}" alt="">
+					</div>
+					{{ range .sp }}
+					<div class="item">
+						<img id="sponsor-logo" src="/images/sponsors_logos/{{ .img }}" alt="">
+					  <div class="carousel-caption"></div>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+		  {{ end }}
+	  </section>
+	  {{ end }}
     </div>
   </div>
 </div>

@@ -1,0 +1,38 @@
+<div id="fh5co-team" data-section="team">
+  <div class="container equal">
+    {{ with .Site.Params.details }}
+    <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+      <h2>{{ .title }}</h2>
+      <p>{{ .description | markdownify }}</p>
+    </div>
+    {{ range .Site.RegularPages }}
+    <div class="col-md-4">
+      <div class="person">
+	<h3>{{ .Title }}</h3>
+	<p>{{ .Description | markdownify }}</p>
+	<!-- <ul class="social"> -->
+	<!--   {{ if isset . "facebook" }} -->
+	<!--   <li><a href="{{ .facebook }}"><i class="icon&#45;facebook"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!--   {{ if isset . "twitter" }} -->
+	<!--   <li><a href="{{ .twitter }}"><i class="icon&#45;twitter"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!--   {{ if isset . "dribbble" }} -->
+	<!--   <li><a href="{{ .dribbble }}"><i class="icon&#45;dribbble"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!--   {{ if isset . "instagram" }} -->
+	<!--   <li><a href="{{ .instagram }}"><i class="icon&#45;instagram"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!--   {{ if isset . "github" }} -->
+	<!--   <li><a href="{{ .github }}"><i class="icon&#45;github"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!--   {{ if isset . "linkedin" }} -->
+	<!--   <li><a href="{{ .linkedin }}"><i class="icon&#45;linkedin"></i></a></li> -->
+	<!--   {{ end }} -->
+	<!-- </ul> -->
+      </div>
+    </div>
+    {{ end }}
+    {{ end }}
+  </div>
+</div> <!-- END fh5co-team -->
