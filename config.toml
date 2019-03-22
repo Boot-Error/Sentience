@@ -50,8 +50,6 @@ title = "Sentience"
 	[[params.sponsors.sp]]
 		img = "Groovenexus logo 220x70.png"
 
-	[[params.sponsors.sp]]
-		img = "loofre.png"
 
 # Mission section
 [params.mission]
