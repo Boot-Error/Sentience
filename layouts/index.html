@@ -42,6 +42,10 @@
 	{{ partial "contact-form.html" .}}
 	{{ end }}
 	
+	{{ if .Site.Params.sponsors.enable }}
+	{{ partial "sponsors.html" .}}
+	{{ end }}
+
 	{{ if .Site.Params.footer.enable }}
 	{{ partial "footer.html" .}}
 	{{ end }}

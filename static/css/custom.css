@@ -87,3 +87,8 @@ img#sponsor-logo {
 	margin: 0 auto;
 	padding: 0 auto;
 }
+
+img.sponsor-item {
+	max-width: 300px;
+	max-height: 300px;
+}
