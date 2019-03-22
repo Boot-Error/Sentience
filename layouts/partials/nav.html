@@ -28,8 +28,16 @@
 	<a href="#" data-nav-section="timeline">{{ with .Site.Params.nav.timeline }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
 
+	{{ if .Site.Params.details.enable }}
+	<a href="#" data-nav-section="details">{{ with .Site.Params.nav.details }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
+
 	{{ if .Site.Params.contact.enable }}
 	<a href="#" data-nav-section="contact">{{ with .Site.Params.nav.contact }}{{ . | markdownify }}{{ end }}</a>
+	{{ end }}
+
+	{{ if .Site.Params.sponsors.enable }}
+	<a href="#" data-nav-section="sponsors">{{ with .Site.Params.nav.sponsors }}{{ . | markdownify }}{{ end }}</a>
 	{{ end }}
 	
       </div>
