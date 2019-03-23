@@ -51,6 +51,12 @@ title = "Sentience"
 		img = "codeblocks.png"
 	[[params.sponsors.sp]]
 		img = "Groovenexus logo 220x70.png"
+	[[params.sponsors.sp]]
+		img = "moneypot.png"
+	[[params.sponsors.sp]]
+		img = "TIME.jpg"
+	[[params.sponsors.sp]]
+		img = "Made Easy.jpg"
 
 
 # Mission section
