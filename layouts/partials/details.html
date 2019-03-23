@@ -8,7 +8,7 @@
     {{ end }}
     {{ range where .Site.RegularPages "Section" "eq" "details" }}
     <div class="col-md-4">
-      <div class="detail-card">
+      <div class="person detail-card">
 		<h3>{{ .Title }}</h3>
 		<p>{{ .Description | markdownify }}</p>
 		<a href="{{ .Permalink }}">Learn More</a>
