@@ -46,12 +46,12 @@ Rectangular field containing 10 pins (Dementors) ,a bot (you) and a ball(the spe
 ### CONSTRAINTS ON ROBOT:
 1. Height: approximately one fourth of the height of a pin.
 2. Width: approx. twice the diameter of a pin.
-3. Weight: 1.5kg - 2kg
+3. Weight: 2kg max
 4. Length: 30 cms max
 5. Power supply: AC power source
 
 ### CONSTRAINTS ON TEAM:
-1. Atmost 2 members per team.
+1. Team size: 4 max 
 
 The top scorers of game 1 will be qualified for next game. The exact
 count will depend on number of participants.
@@ -88,11 +88,11 @@ to win the tournament. Also, defend your own loop. Remember, NO MAGIC 
 
 ### CONSTRAINTS ON ROBOT
 - Robot Dimensions: 30cms * 20cms * 150cms
-- Robot Weight: 2kg
+- Robot Weight: 2kg max
 - Power Supply: AC power source
 
 ### CONSTRAINTS ON TEAM
-1. Team size: 2-3
+1. Team size: 4 max
 
 ## Chamber of Secrets:
 
@@ -136,9 +136,9 @@ wide or no balls etc), it shall be eliminated and batsman wins.
 - Height: not more than 1.5 times of a tennis ball. (approx 10 cm)
 - Length: not more than 30 cm
 - Width: not more than 20 cm.
-- Weight : 1.5 – 2 kg.
+- Weight : 2kg max
 - Type: Manual (Wired and Wireless)
 - Power Supply : AC power source.
 
 ### Constraints on teams
-- Number of Members: 2-3
+- Number of Members: 4 max

@@ -22,10 +22,16 @@ your chances of getting the tag. Kill and win.
 Show the world, your strengths, surprise them with your innovation and let
 your era begin.
 
+Your goal
+: To immobilise the opponent for 30 sec or push the opponent (for maximum of 3 times) to the death zone.
+
 ## Event Criteria
-- Team size: 2-3
-- Robot Dimensions: 30cms * 30cms * 40cms (length * breadth * height)
-- Robot Weight: no limit
+- Team size: 4 max
+
+## Constraint on Robots
+- Robot Dimensions(max including weapons): 50cms * 50cms * 75cms (length * breadth * height)
+- Robot Weight: 50kg max including weapons
+- Power Supply: 36V DC, 230V AC is provided.
 
 ## Arena
 
@@ -35,13 +41,11 @@ your era begin.
 
 ## Arena Description
 1. This hexagonal area is the battleground for the match.
-2. Dimension of each side is :
 
 ## Game Description and Rules
 1. **Basic rules** 
 
-	+ Each match will be one on one match, that is, basically knock out
-match.
+	+ Each match will be one on one match, that is, basically knock out match.
 	+ Each match will be in between two robots of seven minutes.
 	+ Aim of the participants are to immobilize other robots or maximum destruction to other robot within the given time.
 	+ In any case if there will be odd number of participants, then on the basis of scores or the time they take to knock out the other robot, the participant at the last position will be disqualified.
@@ -53,6 +57,10 @@ match.
 	+ Flying (using airfoil, helium balloons, ornithopters etc.) is not allowed.
 	+ No rematch will be there.
 	+ Any team that is not ready at the time specified will be eliminated from the competition.
+	+ Points will be given to the bot who does more damage to the opponent.
+	+ The player whwo throws the opponent maximum number of times to the death zones(upper limit 3) wins.
+	+ Matches are of 7 minutes of single round.
+	+ Arena should not be damaged.
 
 2. The robot must not be made from Lego parts, or any readymade Kit, if we find such robot it will be disqualified. If the robot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the robot should be stacked as single unit.
 
@@ -76,16 +84,6 @@ will be given.
 6. **Winning rule**
 	+ Whoever immobilize the other robot, will be the winner.
 	+ In case no one will be able to immobilize other robot in the given time, then the winner will be declared on the basis of maximum number of points.
-
-## Constraints on Robots
-+ Maximum size :
-+ Maximum weight :
-
-NOTE : Excluding any external controlling device or batteries.
-
-+ Type: The robot should be controlled by a wireless remote control mechanism or wired one throughout the war.
-
-NOTE : But chances of winning is more if your robot is wireless.
 
 ## Terms and Condition (in case of any dispute)
 + Final decision will be of co-ordinators.

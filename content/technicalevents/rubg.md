@@ -22,9 +22,9 @@ and earn the glory. So, be prepared for the ultimate battle....the only word of 
 SURVIVE !!!
 
 ## Event Criteria
-- Team size: 2-3
+- Team size: 4 max
 - Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
-- Robot Weight: 1.5kg
+- Robot Weight: 2kg max including all components
 
 
 ## Arena Design

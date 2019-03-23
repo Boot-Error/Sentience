@@ -27,10 +27,13 @@ avoid them. At a time 2 robots will play, both trying to collect 1 ball at a tim
 The robot able to score maximum points at end of game will be declared the winner. If you are lucky you might
 get some surprise in the obstacles and the Arena, sounds interesting right?
 
+Your Goal
+: Build a wireless or RC wired bot able to push the balls avoiding all obstacles in its way and putting the balls in the allotted basket to score and the one with the maximum score wins.
+
 ## Event Criteria
-- Team size: 2-3
+- Team size: 4 max
 - Robot Dimensions(max): 30cms * 30cms * 25cms (length * breadth * height)
-- Robot Weight: 1.5kg max
+- Robot Weight: 2kg max
 - 2 bots will take part simultaneously
 
 

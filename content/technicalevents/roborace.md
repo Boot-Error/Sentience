@@ -24,9 +24,9 @@ Get to the blocks, run your race, stay relaxed, if you run your race, you will w
 
 ## Event Criteria
 
-- Team size: 2-3
+- Team size: 4 max
 - Robot Dimensions: 26cms * 26cms * 30cms (length x breadth x height)
-- Robot Weight: 1.5kg
+- Robot Weight: 2kg max
 
 
 ## Rules

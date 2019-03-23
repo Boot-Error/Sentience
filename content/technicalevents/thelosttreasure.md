@@ -19,10 +19,10 @@ Collect the treasure, steal Blackbeard treasure and defend your treasure. Let’
 which pirate becomes ‘KING OF THE SEVEN SEAS’.
 
 ## Event Criteria
-- Team size: 2-3
+- Team size: 4 max
 - Robot Dimensions: 30cms * 30cms * 25cms (length * breadth * height)
-- Robot Weight: 1.5kg
-
+- Robot Weight: 2kg max including all the components
+ 
 ## Arena
 
 <p align="center">
