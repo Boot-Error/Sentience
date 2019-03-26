@@ -21,16 +21,6 @@ Simplicity is the best way to bring out your thoughts. but in this progressive e
 dialogues, expression, movement), screenplay, crowd interaction and
 overall impact
 
-## Eliminations
-
-- Teams have to submit a video of part of the play they will perform in the finals.
-- The video must not be more than 10 min long.
-
-## Finals
-
-- Qualified teams will perform in the finals which will be during the festival.
-- Teams have to perform the extended version of the play they submitted earlier.
-
 ## General rules
 
 - Teams must strictly follow the time limit. otherwise, teams will be penalised for not doing so.
