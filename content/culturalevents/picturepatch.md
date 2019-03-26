@@ -25,6 +25,8 @@ Here is an event where you can showcase your editing skills along with your
 photography skills. Combine upto 3 photos into a single composition to showcase
 your Talent and send a message to the audience.
 
+**Last date for submission is 3rd April, 2019**
+
 
 ## Rules
 
