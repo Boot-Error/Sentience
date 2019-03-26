@@ -30,16 +30,16 @@ For queries regarding particular event, contact the event coordinators of respec
 | Arts | [Color Splash](/culturalevents/colorsplash) | Megha (6394777649)<br/>Ankita (9205214775) |
 | | [Kalachitra](/culturalevents/kalachitra) | Anjali (9582134374)<br/>Oishika (9869643106) |
 | Fashion | [Runway](/culturalevents/runaway)  | Suruchi (8826031570)<br/>Aayushi (9711097535)
-| Tech (Robotics) | [RUBG](/technicalevents/rubg) | Anuveksh (9871739461) |
-| | [Crack the Track](/technicalevents/roborace) | Ankit (9315540368) |
-| | [End Game](/technicalevents/endgame) | Aman (9467748694) |
-| | [Upside Down](/technicalevents/upsidedown) | Subasish (9707960561) |
-| | [The Lost Treasure](/technicalevents/thelosttreasure) | Siddharth (8130816645) |
-| | [Triwizardry Tournament](/technicalevents/robosoccer+robosuperover+robobowling) | Siddharth (8130816645)<br/>Revti (7065237165) |
-| | [Fight Club](/technicalevents/fightclub2.0) | Revti (7065237165) |
+| Tech (Robotics) | [RUBG](/technicalevents/rubg) | Anuveksh (9871739461)<br/>Hitendra (9131765346) |
+| | [Crack the Track](/technicalevents/roborace) | Ankit (9315540368)<br/>Aditya (8860754367) |
+| | [End Game](/technicalevents/endgame) | Aman (9467748694)<br/> Hitendra(9131765346) |
+| | [Upside Down](/technicalevents/upsidedown) | Subasish (9707960561)<br/> Hitendra(9131765346) |
+| | [The Lost Treasure](/technicalevents/thelosttreasure) | Siddharth (8130816645)<br/>Ramanpreet(7678107821) |
+| | [Triwizardry Tournament](/technicalevents/robosoccer+robosuperover+robobowling) | Siddharth (8130816645)<br/>Revti (7065237165)<br/>Ronak(8005620170) |
+| | [Fight Club](/technicalevents/fightclub2.0) | Revti Raman(8076136565)<br/>Kimmi(8851540184) |
 | Tech (Coding) | [Capture the Flag](/technicalevents/rootctf) | Shivam (8860032051)<br/>Abhay (7042421243)<br/>Vighnesh (7303669473)
 | | [NITDPL](/technicalevents/nitdpl) | Tanuj (9716755258)<br/>Mohit (9958099934) |
-| | [Clash of Codes](/technicalevents/clashofcodes) | Prakash (9661196194)<br/>Moti Raj (9910478233) |
+| | [Clash of Codes](/technicalevents/clashofcodes) | Shashi (9716581262)<br/>Prem(8010552131) |
 | | [Code Golf](/technicalevents/codegolf) | Shashi (9716581262)<br/>Puneet (7838706481) |
 | | [Reverse Coding](/technicalevents/reversecoding) | Utkarsh (9457354511)<br/>Rahul (8826331369) |
 | Photography | [Picture Patch](/culturalevents/picturepatch) | Ali (8447687776)<br/>Prashant (9667544067) |
