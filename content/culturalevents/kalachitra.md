@@ -15,7 +15,7 @@ Kalachitra is the most highly anticipated art event of Sentience'19; an event ce
 
 ## Event Criteria
 
-- **Team size:** 2 (1 artist + 1 canvas)
+- **Team size:** Solo
 - **Time limit:** 30 min
 
 ## General Rules
