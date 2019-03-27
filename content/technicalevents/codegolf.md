@@ -13,6 +13,10 @@ profileLink="<WITHOUT HTTP:// PART>"
 
 Code Golf is a competitive coding challenge for all the geeks out there, but what makes it different is, you have to code short to fetch more marks. Lesser you code, better you score. Though what\'s priceless is solving interesting problems and the thrill of competition. To deal with it, you require a level patience and skill that escapes ordinary programmers. Are you ready?
 
+## Registration
+
+<button onClick="window.location.href='https://www.hackerearth.com/challenges/college/nitdcg2k19/'">Take me in!</button>
+
 ## Event Criteria
 
 **Team size:** 1-2
