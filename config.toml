@@ -249,10 +249,10 @@ title = "Sentience"
 			eventname = "End Game"
 			link = "/technicalevents/endgame"
 
-		[[params.timeline.day.event]]
-			starttime = "01:00 pm"
-			eventname = "Acapella"
-			link = "/culturalevents/acapella"
+		# [[params.timeline.day.event]]
+		# 	starttime = "01:00 pm"
+			# eventname = "Acapella"
+			# link = "/culturalevents/acapella"
 
 		[[params.timeline.day.event]]
 			starttime = "01:30 pm"
@@ -372,7 +372,7 @@ title = "Sentience"
 
 		[[params.timeline.day.event]]
 			starttime = "07:30 pm"
-			eventname = "Coke Studio"
+			eventname = "Pro Night"
 			link = ""
 
 
