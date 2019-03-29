@@ -57,6 +57,8 @@ title = "Sentience"
 	# 	img = "TIME.jpg"
 	[[params.sponsors.sp]]
 		img = "Made Easy.jpg"
+	[[params.sponsors.sp]]
+		img = "musicaldreams.jpeg"
 
 
 # Mission section
