@@ -41,7 +41,7 @@ title = "Sentience"
 	carousel = false
 	title = "Sponsors"
 	
-	first = "Aptron.jpg"
+	cosponsor = "jktyres.jpg"
 
 	[[params.sponsors.sp]]
 		img = "Aptron.jpg"
@@ -53,13 +53,24 @@ title = "Sentience"
 		img = "Groovenexus logo 220x70.png"
 	[[params.sponsors.sp]]
 		img = "moneypot.png"
-	# [[params.sponsors.sp]]
-	# 	img = "TIME.jpg"
+	[[params.sponsors.sp]]
+		img = "TIME.jpg"
 	[[params.sponsors.sp]]
 		img = "Made Easy.jpg"
 	[[params.sponsors.sp]]
 		img = "musicaldreams.jpeg"
-
+	[[params.sponsors.sp]]
+		img = "icici.jpg"
+	[[params.sponsors.sp]]
+		img = "bajaj_capital.png"
+	[[params.sponsors.sp]]
+		img = "ace.jpg"
+	[[params.sponsors.sp]]
+		img = "jktyres.jpg"
+	[[params.sponsors.sp]]
+		img = "Mochai Final-2.png"
+	[[params.sponsors.sp]]
+		img = "the_verb.jpg"
 
 # Mission section
 [params.mission]
@@ -540,6 +551,10 @@ title = "Sentience"
 		[[params.contact.section.item]]
 			name = "Ayushi"
 			phno = "+91 97110 97535"
+
+		[[params.contact.section.item]]
+			name = "Sunny"
+			phno = "+91 97182 62757"
 
    # name_placeholder = "Your name"
   # email_placeholder = "Your email"
