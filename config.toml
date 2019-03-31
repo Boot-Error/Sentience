@@ -53,8 +53,8 @@ title = "Sentience"
 		img = "Groovenexus logo 220x70.png"
 	[[params.sponsors.sp]]
 		img = "moneypot.png"
-	[[params.sponsors.sp]]
-		img = "TIME.jpg"
+	# [[params.sponsors.sp]]
+	# 	img = "TIME.jpg"
 	[[params.sponsors.sp]]
 		img = "Made Easy.jpg"
 	[[params.sponsors.sp]]
@@ -65,8 +65,6 @@ title = "Sentience"
 		img = "bajaj_capital.png"
 	[[params.sponsors.sp]]
 		img = "ace.jpg"
-	[[params.sponsors.sp]]
-		img = "jktyres.jpg"
 	[[params.sponsors.sp]]
 		img = "Mochai Final-2.png"
 	[[params.sponsors.sp]]
