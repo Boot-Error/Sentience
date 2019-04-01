@@ -15,7 +15,7 @@ root@CTF is an event which provides a platform for participants to get the taste
 
 ## Event Criteria
 
-- **Team size:** 1-4
+- **Team size:** 1-2
 - **Time Duration:** 3hrs
 
 ## Rules
