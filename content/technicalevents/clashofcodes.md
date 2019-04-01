@@ -18,6 +18,12 @@ coding skills but, you would win only if you outlast your competitors.
 It's an opportunity to boast your coding skills, but you can't entirely
 rely on them. May the odds always be in your favour.
 
+## PLAY NOW!
+
+Clash of Codes game is up!
+
+<button onClick="window.location.href='http://35.231.82.29/ClashOfCodes'">Play Now!</button>
+
 ## General Rules:
 
 -   Single person entry is allowed.
