@@ -29,7 +29,7 @@ Your goal
 - Team size: 4 max
 
 ## Constraint on Robots
-- Robot Dimensions(max including weapons): 30cms * 30cms * 30cms (length * breadth * height)
+- Robot Dimensions(max including weapons): 50cms * 50cms * 50cms (length * breadth * height)
 - Robot Weight: 20kg max including weapons
 - Power Supply: 36V DC, 230V AC is provided.
 
