@@ -31,7 +31,7 @@ Your goal
 ## Constraint on Robots
 - Robot Dimensions(max including weapons): 50cms * 50cms * 50cms (length * breadth * height)
 - Robot Weight: 20kg max including weapons
-- Power Supply: 36V DC, 230V AC is provided.
+- Power Supply: 36V DC(team has to arrange by themselves), 230V AC(provided onsite).
 
 ## Arena
 
